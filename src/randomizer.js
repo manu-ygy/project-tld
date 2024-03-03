@@ -45,8 +45,7 @@ app.listen(3000, () => {
         })
     })
 
-    // var domainFolders = fs.readdirSync(path.join(path.resolve(), '../data/chunked/'))
-    var domainFolders = ['cl', 'ck', 'cn', 'claims', 'club']
+    var domainFolders = fs.readdirSync(path.join(path.resolve(), '../data/chunked/'))
     
     domainFolders.forEach((dir) => {
         progress[dir] = 0
