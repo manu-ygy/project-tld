@@ -1,0 +1,6042 @@
+{
+	".com": {
+		"usage": 702681019,
+		"percentage": "39.79"
+	},
+	".net": {
+		"usage": 345922534,
+		"percentage": "19.59"
+	},
+	".jp": {
+		"usage": 67168816,
+		"percentage": "3.80"
+	},
+	".de": {
+		"usage": 67007985,
+		"percentage": "3.79"
+	},
+	".cn": {
+		"usage": 35052371,
+		"percentage": "1.98"
+	},
+	".org": {
+		"usage": 31639834,
+		"percentage": "1.79"
+	},
+	".br": {
+		"usage": 30799243,
+		"percentage": "1.74"
+	},
+	".fr": {
+		"usage": 29527647,
+		"percentage": "1.67"
+	},
+	".nl": {
+		"usage": 25505512,
+		"percentage": "1.44"
+	},
+	".pl": {
+		"usage": 21710862,
+		"percentage": "1.23"
+	},
+	".uk": {
+		"usage": 21183335,
+		"percentage": "1.20"
+	},
+	".it": {
+		"usage": 21035651,
+		"percentage": "1.19"
+	},
+	".au": {
+		"usage": 20504204,
+		"percentage": "1.16"
+	},
+	".ca": {
+		"usage": 12760261,
+		"percentage": "0.72"
+	},
+	".se": {
+		"usage": 12238824,
+		"percentage": "0.69"
+	},
+	".ch": {
+		"usage": 10994051,
+		"percentage": "0.62"
+	},
+	".edu": {
+		"usage": 10149532,
+		"percentage": "0.57"
+	},
+	".es": {
+		"usage": 9910145,
+		"percentage": "0.56"
+	},
+	".be": {
+		"usage": 9021306,
+		"percentage": "0.51"
+	},
+	".hu": {
+		"usage": 8940760,
+		"percentage": "0.51"
+	},
+	".eu": {
+		"usage": 8940261,
+		"percentage": "0.51"
+	},
+	".za": {
+		"usage": 8713158,
+		"percentage": "0.49"
+	},
+	".co": {
+		"usage": 8547522,
+		"percentage": "0.48"
+	},
+	".info": {
+		"usage": 8094477,
+		"percentage": "0.46"
+	},
+	".cz": {
+		"usage": 7323161,
+		"percentage": "0.41"
+	},
+	".io": {
+		"usage": 7014875,
+		"percentage": "0.40"
+	},
+	".in": {
+		"usage": 6923489,
+		"percentage": "0.39"
+	},
+	".fi": {
+		"usage": 6553242,
+		"percentage": "0.37"
+	},
+	".blog": {
+		"usage": 6389739,
+		"percentage": "0.36"
+	},
+	".at": {
+		"usage": 6007257,
+		"percentage": "0.34"
+	},
+	".xyz": {
+		"usage": 5968582,
+		"percentage": "0.34"
+	},
+	".dk": {
+		"usage": 5699023,
+		"percentage": "0.32"
+	},
+	".ar": {
+		"usage": 5677732,
+		"percentage": "0.32"
+	},
+	".no": {
+		"usage": 5677151,
+		"percentage": "0.32"
+	},
+	".pt": {
+		"usage": 5414208,
+		"percentage": "0.31"
+	},
+	".tw": {
+		"usage": 5385678,
+		"percentage": "0.30"
+	},
+	".us": {
+		"usage": 5038863,
+		"percentage": "0.29"
+	},
+	".gr": {
+		"usage": 4898295,
+		"percentage": "0.28"
+	},
+	".nz": {
+		"usage": 4644014,
+		"percentage": "0.26"
+	},
+	".mx": {
+		"usage": 4626806,
+		"percentage": "0.26"
+	},
+	".ga": {
+		"usage": 4531757,
+		"percentage": "0.26"
+	},
+	".me": {
+		"usage": 4203791,
+		"percentage": "0.24"
+	},
+	".biz": {
+		"usage": 3912285,
+		"percentage": "0.22"
+	},
+	".ml": {
+		"usage": 3756100,
+		"percentage": "0.21"
+	},
+	".cl": {
+		"usage": 3591799,
+		"percentage": "0.20"
+	},
+	".cf": {
+		"usage": 3387869,
+		"percentage": "0.19"
+	},
+	".online": {
+		"usage": 3374600,
+		"percentage": "0.19"
+	},
+	".ro": {
+		"usage": 3340131,
+		"percentage": "0.19"
+	},
+	".gq": {
+		"usage": 3117525,
+		"percentage": "0.18"
+	},
+	".ua": {
+		"usage": 3097058,
+		"percentage": "0.18"
+	},
+	".site": {
+		"usage": 3047422,
+		"percentage": "0.17"
+	},
+	".th": {
+		"usage": 2992113,
+		"percentage": "0.17"
+	},
+	".cc": {
+		"usage": 2822717,
+		"percentage": "0.16"
+	},
+	".sk": {
+		"usage": 2719592,
+		"percentage": "0.15"
+	},
+	".hr": {
+		"usage": 2679992,
+		"percentage": "0.15"
+	},
+	".id": {
+		"usage": 2544668,
+		"percentage": "0.14"
+	},
+	".tk": {
+		"usage": 2493076,
+		"percentage": "0.14"
+	},
+	".il": {
+		"usage": 2244413,
+		"percentage": "0.13"
+	},
+	".club": {
+		"usage": 2172878,
+		"percentage": "0.12"
+	},
+	".mil": {
+		"usage": 2064825,
+		"percentage": "0.12"
+	},
+	".ir": {
+		"usage": 2064592,
+		"percentage": "0.12"
+	},
+	".top": {
+		"usage": 2023939,
+		"percentage": "0.11"
+	},
+	".lt": {
+		"usage": 2000355,
+		"percentage": "0.11"
+	},
+	".ie": {
+		"usage": 1927238,
+		"percentage": "0.11"
+	},
+	".app": {
+		"usage": 1759278,
+		"percentage": "0.10"
+	},
+	".rs": {
+		"usage": 1722155,
+		"percentage": "0.10"
+	},
+	".kr": {
+		"usage": 1688214,
+		"percentage": "0.10"
+	},
+	".bg": {
+		"usage": 1589083,
+		"percentage": "0.09"
+	},
+	".uy": {
+		"usage": 1582474,
+		"percentage": "0.09"
+	},
+	".gov": {
+		"usage": 1581964,
+		"percentage": "0.09"
+	},
+	".tr": {
+		"usage": 1532601,
+		"percentage": "0.09"
+	},
+	".ee": {
+		"usage": 1493562,
+		"percentage": "0.08"
+	},
+	".shop": {
+		"usage": 1446976,
+		"percentage": "0.08"
+	},
+	".icu": {
+		"usage": 1445002,
+		"percentage": "0.08"
+	},
+	".my": {
+		"usage": 1427155,
+		"percentage": "0.08"
+	},
+	".vn": {
+		"usage": 1344613,
+		"percentage": "0.08"
+	},
+	".cloud": {
+		"usage": 1318029,
+		"percentage": "0.07"
+	},
+	".by": {
+		"usage": 1313199,
+		"percentage": "0.07"
+	},
+	".sg": {
+		"usage": 1198056,
+		"percentage": "0.07"
+	},
+	".hk": {
+		"usage": 1143208,
+		"percentage": "0.06"
+	},
+	".tv": {
+		"usage": 1134713,
+		"percentage": "0.06"
+	},
+	".tech": {
+		"usage": 1050367,
+		"percentage": "0.06"
+	},
+	".arpa": {
+		"usage": 994946,
+		"percentage": "0.06"
+	},
+	".si": {
+		"usage": 988358,
+		"percentage": "0.06"
+	},
+	".store": {
+		"usage": 980997,
+		"percentage": "0.06"
+	},
+	".vip": {
+		"usage": 960737,
+		"percentage": "0.05"
+	},
+	".pro": {
+		"usage": 956487,
+		"percentage": "0.05"
+	},
+	".tips": {
+		"usage": 905531,
+		"percentage": "0.05"
+	},
+	".live": {
+		"usage": 841938,
+		"percentage": "0.05"
+	},
+	".work": {
+		"usage": 834623,
+		"percentage": "0.05"
+	},
+	".dev": {
+		"usage": 796740,
+		"percentage": "0.05"
+	},
+	".ae": {
+		"usage": 787859,
+		"percentage": "0.04"
+	},
+	".lv": {
+		"usage": 777303,
+		"percentage": "0.04"
+	},
+	".space": {
+		"usage": 768042,
+		"percentage": "0.04"
+	},
+	".to": {
+		"usage": 742476,
+		"percentage": "0.04"
+	},
+	".sh": {
+		"usage": 724790,
+		"percentage": "0.04"
+	},
+	".is": {
+		"usage": 721952,
+		"percentage": "0.04"
+	},
+	".pk": {
+		"usage": 716480,
+		"percentage": "0.04"
+	},
+	".run": {
+		"usage": 696960,
+		"percentage": "0.04"
+	},
+	".xn–p1ai": {
+		"usage": 658484,
+		"percentage": "0.04"
+	},
+	".ma": {
+		"usage": 649314,
+		"percentage": "0.04"
+	},
+	".website": {
+		"usage": 646300,
+		"percentage": "0.04"
+	},
+	".nu": {
+		"usage": 617288,
+		"percentage": "0.03"
+	},
+	".ng": {
+		"usage": 584372,
+		"percentage": "0.03"
+	},
+	".pe": {
+		"usage": 572406,
+		"percentage": "0.03"
+	},
+	".ke": {
+		"usage": 549284,
+		"percentage": "0.03"
+	},
+	".su": {
+		"usage": 509638,
+		"percentage": "0.03"
+	},
+	".ve": {
+		"usage": 498987,
+		"percentage": "0.03"
+	},
+	".page": {
+		"usage": 487137,
+		"percentage": "0.03"
+	},
+	".mobi": {
+		"usage": 484489,
+		"percentage": "0.03"
+	},
+	".cy": {
+		"usage": 470669,
+		"percentage": "0.03"
+	},
+	".ph": {
+		"usage": 461741,
+		"percentage": "0.03"
+	},
+	".life": {
+		"usage": 459676,
+		"percentage": "0.03"
+	},
+	".ec": {
+		"usage": 439420,
+		"percentage": "0.02"
+	},
+	".kz": {
+		"usage": 439396,
+		"percentage": "0.02"
+	},
+	".link": {
+		"usage": 404332,
+		"percentage": "0.02"
+	},
+	".pw": {
+		"usage": 379921,
+		"percentage": "0.02"
+	},
+	".fun": {
+		"usage": 365937,
+		"percentage": "0.02"
+	},
+	".ws": {
+		"usage": 360826,
+		"percentage": "0.02"
+	},
+	".asia": {
+		"usage": 358958,
+		"percentage": "0.02"
+	},
+	".network": {
+		"usage": 319176,
+		"percentage": "0.02"
+	},
+	".lu": {
+		"usage": 319132,
+		"percentage": "0.02"
+	},
+	".buzz": {
+		"usage": 305349,
+		"percentage": "0.02"
+	},
+	".ge": {
+		"usage": 303856,
+		"percentage": "0.02"
+	},
+	".ba": {
+		"usage": 300511,
+		"percentage": "0.02"
+	},
+	".cat": {
+		"usage": 286677,
+		"percentage": "0.02"
+	},
+	".host": {
+		"usage": 281714,
+		"percentage": "0.02"
+	},
+	".world": {
+		"usage": 265626,
+		"percentage": "0.02"
+	},
+	".ai": {
+		"usage": 256299,
+		"percentage": "0.01"
+	},
+	".cm": {
+		"usage": 244762,
+		"percentage": "0.01"
+	},
+	".design": {
+		"usage": 242457,
+		"percentage": "0.01"
+	},
+	".one": {
+		"usage": 234889,
+		"percentage": "0.01"
+	},
+	".tt": {
+		"usage": 228256,
+		"percentage": "0.01"
+	},
+	".cr": {
+		"usage": 227298,
+		"percentage": "0.01"
+	},
+	".uz": {
+		"usage": 224840,
+		"percentage": "0.01"
+	},
+	".art": {
+		"usage": 222682,
+		"percentage": "0.01"
+	},
+	".ovh": {
+		"usage": 219634,
+		"percentage": "0.01"
+	},
+	".np": {
+		"usage": 215095,
+		"percentage": "0.01"
+	},
+	".sa": {
+		"usage": 212646,
+		"percentage": "0.01"
+	},
+	".name": {
+		"usage": 211749,
+		"percentage": "0.01"
+	},
+	".lk": {
+		"usage": 211546,
+		"percentage": "0.01"
+	},
+	".email": {
+		"usage": 205179,
+		"percentage": "0.01"
+	},
+	".do": {
+		"usage": 203138,
+		"percentage": "0.01"
+	},
+	".tokyo": {
+		"usage": 202589,
+		"percentage": "0.01"
+	},
+	".bar": {
+		"usage": 194382,
+		"percentage": "0.01"
+	},
+	".agency": {
+		"usage": 191617,
+		"percentage": "0.01"
+	},
+	".today": {
+		"usage": 189983,
+		"percentage": "0.01"
+	},
+	".ly": {
+		"usage": 188245,
+		"percentage": "0.01"
+	},
+	".bd": {
+		"usage": 184902,
+		"percentage": "0.01"
+	},
+	".solutions": {
+		"usage": 180131,
+		"percentage": "0.01"
+	},
+	".studio": {
+		"usage": 173193,
+		"percentage": "0.01"
+	},
+	".li": {
+		"usage": 172873,
+		"percentage": "0.01"
+	},
+	".rocks": {
+		"usage": 171067,
+		"percentage": "0.01"
+	},
+	".monster": {
+		"usage": 160759,
+		"percentage": "0.01"
+	},
+	".casa": {
+		"usage": 158816,
+		"percentage": "0.01"
+	},
+	".mk": {
+		"usage": 157075,
+		"percentage": "0.01"
+	},
+	".group": {
+		"usage": 156021,
+		"percentage": "0.01"
+	},
+	".py": {
+		"usage": 152073,
+		"percentage": "0.01"
+	},
+	".gt": {
+		"usage": 151660,
+		"percentage": "0.01"
+	},
+	".cyou": {
+		"usage": 151457,
+		"percentage": "0.01"
+	},
+	".media": {
+		"usage": 150741,
+		"percentage": "0.01"
+	},
+	".bz": {
+		"usage": 146968,
+		"percentage": "0.01"
+	},
+	".africa": {
+		"usage": 146959,
+		"percentage": "0.01"
+	},
+	".bo": {
+		"usage": 144143,
+		"percentage": "0.01"
+	},
+	".ni": {
+		"usage": 141207,
+		"percentage": "0.01"
+	},
+	".ltd": {
+		"usage": 140374,
+		"percentage": "0.01"
+	},
+	".ninja": {
+		"usage": 138515,
+		"percentage": "0.01"
+	},
+	".am": {
+		"usage": 134299,
+		"percentage": "0.01"
+	},
+	".xn–fiqs8s": {
+		"usage": 134051,
+		"percentage": "0.01"
+	},
+	".la": {
+		"usage": 133084,
+		"percentage": "0.01"
+	},
+	".tl": {
+		"usage": 131549,
+		"percentage": "0.01"
+	},
+	".domains": {
+		"usage": 131234,
+		"percentage": "0.01"
+	},
+	".news": {
+		"usage": 131005,
+		"percentage": "0.01"
+	},
+	".zone": {
+		"usage": 130357,
+		"percentage": "0.01"
+	},
+	".win": {
+		"usage": 129632,
+		"percentage": "0.01"
+	},
+	".services": {
+		"usage": 127095,
+		"percentage": "0.01"
+	},
+	".company": {
+		"usage": 123039,
+		"percentage": "0.01"
+	},
+	".guru": {
+		"usage": 119775,
+		"percentage": "0.01"
+	},
+	".md": {
+		"usage": 118838,
+		"percentage": "0.01"
+	},
+	".click": {
+		"usage": 118277,
+		"percentage": "0.01"
+	},
+	".best": {
+		"usage": 116117,
+		"percentage": "0.01"
+	},
+	".tz": {
+		"usage": 112566,
+		"percentage": "0.01"
+	},
+	".al": {
+		"usage": 110244,
+		"percentage": "0.01"
+	},
+	".zw": {
+		"usage": 110176,
+		"percentage": "0.01"
+	},
+	".az": {
+		"usage": 109100,
+		"percentage": "0.01"
+	},
+	".team": {
+		"usage": 106391,
+		"percentage": "0.01"
+	},
+	".center": {
+		"usage": 105660,
+		"percentage": "0.01"
+	},
+	".mp": {
+		"usage": 104819,
+		"percentage": "0.01"
+	},
+	".im": {
+		"usage": 104534,
+		"percentage": "0.01"
+	},
+	".tel": {
+		"usage": 103982,
+		"percentage": "0.01"
+	},
+	".xxx": {
+		"usage": 100537,
+		"percentage": "0.01"
+	},
+	".ms": {
+		"usage": 98554,
+		"percentage": "0.01"
+	},
+	".cw": {
+		"usage": 98256,
+		"percentage": "0.01"
+	},
+	".systems": {
+		"usage": 96214,
+		"percentage": "0.01"
+	},
+	".tn": {
+		"usage": 95853,
+		"percentage": "0.01"
+	},
+	".global": {
+		"usage": 95454,
+		"percentage": "0.01"
+	},
+	".nyc": {
+		"usage": 93152,
+		"percentage": "0.01"
+	},
+	".gg": {
+		"usage": 91459,
+		"percentage": "0.01"
+	},
+	".academy": {
+		"usage": 87800,
+		"percentage": "0.00"
+	},
+	".photography": {
+		"usage": 87595,
+		"percentage": "0.00"
+	},
+	".st": {
+		"usage": 85993,
+		"percentage": "0.00"
+	},
+	".digital": {
+		"usage": 82987,
+		"percentage": "0.00"
+	},
+	".ug": {
+		"usage": 82867,
+		"percentage": "0.00"
+	},
+	".farm": {
+		"usage": 79879,
+		"percentage": "0.00"
+	},
+	".fm": {
+		"usage": 79609,
+		"percentage": "0.00"
+	},
+	".ao": {
+		"usage": 78527,
+		"percentage": "0.00"
+	},
+	".trade": {
+		"usage": 77906,
+		"percentage": "0.00"
+	},
+	".mg": {
+		"usage": 77249,
+		"percentage": "0.00"
+	},
+	".jobs": {
+		"usage": 76387,
+		"percentage": "0.00"
+	},
+	".vc": {
+		"usage": 75988,
+		"percentage": "0.00"
+	},
+	".wtf": {
+		"usage": 75372,
+		"percentage": "0.00"
+	},
+	".re": {
+		"usage": 75358,
+		"percentage": "0.00"
+	},
+	".ci": {
+		"usage": 74012,
+		"percentage": "0.00"
+	},
+	".mn": {
+		"usage": 73695,
+		"percentage": "0.00"
+	},
+	".fit": {
+		"usage": 72082,
+		"percentage": "0.00"
+	},
+	".business": {
+		"usage": 71275,
+		"percentage": "0.00"
+	},
+	".cam": {
+		"usage": 71032,
+		"percentage": "0.00"
+	},
+	".berlin": {
+		"usage": 70893,
+		"percentage": "0.00"
+	},
+	".expert": {
+		"usage": 70298,
+		"percentage": "0.00"
+	},
+	".plus": {
+		"usage": 70221,
+		"percentage": "0.00"
+	},
+	".nc": {
+		"usage": 69157,
+		"percentage": "0.00"
+	},
+	".qa": {
+		"usage": 68805,
+		"percentage": "0.00"
+	},
+	".city": {
+		"usage": 68457,
+		"percentage": "0.00"
+	},
+	".london": {
+		"usage": 67446,
+		"percentage": "0.00"
+	},
+	".na": {
+		"usage": 66462,
+		"percentage": "0.00"
+	},
+	".pf": {
+		"usage": 66338,
+		"percentage": "0.00"
+	},
+	".cool": {
+		"usage": 65503,
+		"percentage": "0.00"
+	},
+	".cx": {
+		"usage": 65384,
+		"percentage": "0.00"
+	},
+	".wang": {
+		"usage": 63075,
+		"percentage": "0.00"
+	},
+	".realtor": {
+		"usage": 62204,
+		"percentage": "0.00"
+	},
+	".finance": {
+		"usage": 60725,
+		"percentage": "0.00"
+	},
+	".education": {
+		"usage": 60695,
+		"percentage": "0.00"
+	},
+	".technology": {
+		"usage": 60056,
+		"percentage": "0.00"
+	},
+	".games": {
+		"usage": 58940,
+		"percentage": "0.00"
+	},
+	".church": {
+		"usage": 57841,
+		"percentage": "0.00"
+	},
+	".pub": {
+		"usage": 57788,
+		"percentage": "0.00"
+	},
+	".support": {
+		"usage": 57578,
+		"percentage": "0.00"
+	},
+	".kred": {
+		"usage": 57527,
+		"percentage": "0.00"
+	},
+	".sv": {
+		"usage": 57119,
+		"percentage": "0.00"
+	},
+	".events": {
+		"usage": 57040,
+		"percentage": "0.00"
+	},
+	".marketing": {
+		"usage": 56353,
+		"percentage": "0.00"
+	},
+	".ink": {
+		"usage": 55266,
+		"percentage": "0.00"
+	},
+	".care": {
+		"usage": 54728,
+		"percentage": "0.00"
+	},
+	".consulting": {
+		"usage": 53880,
+		"percentage": "0.00"
+	},
+	".works": {
+		"usage": 53828,
+		"percentage": "0.00"
+	},
+	".mz": {
+		"usage": 53787,
+		"percentage": "0.00"
+	},
+	".red": {
+		"usage": 53519,
+		"percentage": "0.00"
+	},
+	".hosting": {
+		"usage": 52885,
+		"percentage": "0.00"
+	},
+	".eg": {
+		"usage": 52420,
+		"percentage": "0.00"
+	},
+	".love": {
+		"usage": 52015,
+		"percentage": "0.00"
+	},
+	".travel": {
+		"usage": 51399,
+		"percentage": "0.00"
+	},
+	".mt": {
+		"usage": 50127,
+		"percentage": "0.00"
+	},
+	".kg": {
+		"usage": 50097,
+		"percentage": "0.00"
+	},
+	".press": {
+		"usage": 49936,
+		"percentage": "0.00"
+	},
+	".help": {
+		"usage": 49524,
+		"percentage": "0.00"
+	},
+	".ps": {
+		"usage": 49406,
+		"percentage": "0.00"
+	},
+	".gd": {
+		"usage": 48745,
+		"percentage": "0.00"
+	},
+	".wf": {
+		"usage": 48031,
+		"percentage": "0.00"
+	},
+	".so": {
+		"usage": 46800,
+		"percentage": "0.00"
+	},
+	".tools": {
+		"usage": 46738,
+		"percentage": "0.00"
+	},
+	".social": {
+		"usage": 46287,
+		"percentage": "0.00"
+	},
+	".mc": {
+		"usage": 46222,
+		"percentage": "0.00"
+	},
+	".mu": {
+		"usage": 45214,
+		"percentage": "0.00"
+	},
+	".nf": {
+		"usage": 44692,
+		"percentage": "0.00"
+	},
+	".photo": {
+		"usage": 44475,
+		"percentage": "0.00"
+	},
+	".house": {
+		"usage": 44316,
+		"percentage": "0.00"
+	},
+	".school": {
+		"usage": 44106,
+		"percentage": "0.00"
+	},
+	".tc": {
+		"usage": 43596,
+		"percentage": "0.00"
+	},
+	".uno": {
+		"usage": 43467,
+		"percentage": "0.00"
+	},
+	".xn–ses554g": {
+		"usage": 43321,
+		"percentage": "0.00"
+	},
+	".earth": {
+		"usage": 43154,
+		"percentage": "0.00"
+	},
+	".family": {
+		"usage": 42735,
+		"percentage": "0.00"
+	},
+	".vu": {
+		"usage": 42391,
+		"percentage": "0.00"
+	},
+	".sn": {
+		"usage": 42196,
+		"percentage": "0.00"
+	},
+	".international": {
+		"usage": 41711,
+		"percentage": "0.00"
+	},
+	".stream": {
+		"usage": 41127,
+		"percentage": "0.00"
+	},
+	".video": {
+		"usage": 41126,
+		"percentage": "0.00"
+	},
+	".ag": {
+		"usage": 41100,
+		"percentage": "0.00"
+	},
+	".bid": {
+		"usage": 40811,
+		"percentage": "0.00"
+	},
+	".fund": {
+		"usage": 40556,
+		"percentage": "0.00"
+	},
+	".rest": {
+		"usage": 40404,
+		"percentage": "0.00"
+	},
+	".party": {
+		"usage": 40342,
+		"percentage": "0.00"
+	},
+	".photos": {
+		"usage": 40331,
+		"percentage": "0.00"
+	},
+	".chat": {
+		"usage": 39830,
+		"percentage": "0.00"
+	},
+	".bet": {
+		"usage": 39805,
+		"percentage": "0.00"
+	},
+	".aw": {
+		"usage": 39652,
+		"percentage": "0.00"
+	},
+	".market": {
+		"usage": 39648,
+		"percentage": "0.00"
+	},
+	".fyi": {
+		"usage": 39597,
+		"percentage": "0.00"
+	},
+	".software": {
+		"usage": 39293,
+		"percentage": "0.00"
+	},
+	".build": {
+		"usage": 39012,
+		"percentage": "0.00"
+	},
+	".amsterdam": {
+		"usage": 38694,
+		"percentage": "0.00"
+	},
+	".bio": {
+		"usage": 38660,
+		"percentage": "0.00"
+	},
+	".health": {
+		"usage": 38626,
+		"percentage": "0.00"
+	},
+	".training": {
+		"usage": 38332,
+		"percentage": "0.00"
+	},
+	".gmbh": {
+		"usage": 38271,
+		"percentage": "0.00"
+	},
+	".coffee": {
+		"usage": 37759,
+		"percentage": "0.00"
+	},
+	".coop": {
+		"usage": 37231,
+		"percentage": "0.00"
+	},
+	".pm": {
+		"usage": 37117,
+		"percentage": "0.00"
+	},
+	".wiki": {
+		"usage": 36913,
+		"percentage": "0.00"
+	},
+	".codes": {
+		"usage": 36572,
+		"percentage": "0.00"
+	},
+	".xn–p1acf": {
+		"usage": 35850,
+		"percentage": "0.00"
+	},
+	".bayern": {
+		"usage": 35816,
+		"percentage": "0.00"
+	},
+	".gl": {
+		"usage": 35788,
+		"percentage": "0.00"
+	},
+	".aero": {
+		"usage": 35726,
+		"percentage": "0.00"
+	},
+	".coach": {
+		"usage": 35721,
+		"percentage": "0.00"
+	},
+	".cafe": {
+		"usage": 35650,
+		"percentage": "0.00"
+	},
+	".land": {
+		"usage": 35628,
+		"percentage": "0.00"
+	},
+	".ad": {
+		"usage": 35057,
+		"percentage": "0.00"
+	},
+	".band": {
+		"usage": 35024,
+		"percentage": "0.00"
+	},
+	".realty": {
+		"usage": 34380,
+		"percentage": "0.00"
+	},
+	".capital": {
+		"usage": 34323,
+		"percentage": "0.00"
+	},
+	".ceo": {
+		"usage": 34159,
+		"percentage": "0.00"
+	},
+	".eus": {
+		"usage": 34045,
+		"percentage": "0.00"
+	},
+	".community": {
+		"usage": 33878,
+		"percentage": "0.00"
+	},
+	".cash": {
+		"usage": 33730,
+		"percentage": "0.00"
+	},
+	".gallery": {
+		"usage": 33582,
+		"percentage": "0.00"
+	},
+	".koeln": {
+		"usage": 33445,
+		"percentage": "0.00"
+	},
+	".blue": {
+		"usage": 32902,
+		"percentage": "0.00"
+	},
+	".lol": {
+		"usage": 32877,
+		"percentage": "0.00"
+	},
+	".gold": {
+		"usage": 32758,
+		"percentage": "0.00"
+	},
+	".review": {
+		"usage": 32445,
+		"percentage": "0.00"
+	},
+	".dz": {
+		"usage": 32066,
+		"percentage": "0.00"
+	},
+	".ye": {
+		"usage": 31974,
+		"percentage": "0.00"
+	},
+	".as": {
+		"usage": 31894,
+		"percentage": "0.00"
+	},
+	".ac": {
+		"usage": 30788,
+		"percentage": "0.00"
+	},
+	".bw": {
+		"usage": 30619,
+		"percentage": "0.00"
+	},
+	".swiss": {
+		"usage": 30542,
+		"percentage": "0.00"
+	},
+	".paris": {
+		"usage": 30487,
+		"percentage": "0.00"
+	},
+	".show": {
+		"usage": 30451,
+		"percentage": "0.00"
+	},
+	".guide": {
+		"usage": 30220,
+		"percentage": "0.00"
+	},
+	".law": {
+		"usage": 30059,
+		"percentage": "0.00"
+	},
+	".men": {
+		"usage": 29744,
+		"percentage": "0.00"
+	},
+	".gp": {
+		"usage": 29664,
+		"percentage": "0.00"
+	},
+	".watch": {
+		"usage": 29562,
+		"percentage": "0.00"
+	},
+	".money": {
+		"usage": 29429,
+		"percentage": "0.00"
+	},
+	".ls": {
+		"usage": 29043,
+		"percentage": "0.00"
+	},
+	".exchange": {
+		"usage": 28660,
+		"percentage": "0.00"
+	},
+	".moe": {
+		"usage": 28635,
+		"percentage": "0.00"
+	},
+	".directory": {
+		"usage": 28616,
+		"percentage": "0.00"
+	},
+	".immo": {
+		"usage": 28468,
+		"percentage": "0.00"
+	},
+	".bike": {
+		"usage": 28429,
+		"percentage": "0.00"
+	},
+	".energy": {
+		"usage": 28222,
+		"percentage": "0.00"
+	},
+	".fj": {
+		"usage": 27795,
+		"percentage": "0.00"
+	},
+	".hamburg": {
+		"usage": 27591,
+		"percentage": "0.00"
+	},
+	".wales": {
+		"usage": 27346,
+		"percentage": "0.00"
+	},
+	".ky": {
+		"usage": 27345,
+		"percentage": "0.00"
+	},
+	".wien": {
+		"usage": 27220,
+		"percentage": "0.00"
+	},
+	".foundation": {
+		"usage": 26966,
+		"percentage": "0.00"
+	},
+	".pa": {
+		"usage": 26645,
+		"percentage": "0.00"
+	},
+	".dog": {
+		"usage": 26522,
+		"percentage": "0.00"
+	},
+	".moscow": {
+		"usage": 26513,
+		"percentage": "0.00"
+	},
+	".wine": {
+		"usage": 26034,
+		"percentage": "0.00"
+	},
+	".scot": {
+		"usage": 25767,
+		"percentage": "0.00"
+	},
+	".ventures": {
+		"usage": 25625,
+		"percentage": "0.00"
+	},
+	".science": {
+		"usage": 25380,
+		"percentage": "0.00"
+	},
+	".llc": {
+		"usage": 25303,
+		"percentage": "0.00"
+	},
+	".fitness": {
+		"usage": 25117,
+		"percentage": "0.00"
+	},
+	".gs": {
+		"usage": 25047,
+		"percentage": "0.00"
+	},
+	".yoga": {
+		"usage": 24903,
+		"percentage": "0.00"
+	},
+	".joburg": {
+		"usage": 24565,
+		"percentage": "0.00"
+	},
+	".legal": {
+		"usage": 24477,
+		"percentage": "0.00"
+	},
+	".wedding": {
+		"usage": 24350,
+		"percentage": "0.00"
+	},
+	".download": {
+		"usage": 24309,
+		"percentage": "0.00"
+	},
+	".rw": {
+		"usage": 24210,
+		"percentage": "0.00"
+	},
+	".capetown": {
+		"usage": 23991,
+		"percentage": "0.00"
+	},
+	".vet": {
+		"usage": 23936,
+		"percentage": "0.00"
+	},
+	".ht": {
+		"usage": 23864,
+		"percentage": "0.00"
+	},
+	".style": {
+		"usage": 23779,
+		"percentage": "0.00"
+	},
+	".golf": {
+		"usage": 23629,
+		"percentage": "0.00"
+	},
+	".sale": {
+		"usage": 23382,
+		"percentage": "0.00"
+	},
+	".direct": {
+		"usage": 23108,
+		"percentage": "0.00"
+	},
+	".gh": {
+		"usage": 23089,
+		"percentage": "0.00"
+	},
+	".surf": {
+		"usage": 23073,
+		"percentage": "0.00"
+	},
+	".vg": {
+		"usage": 23021,
+		"percentage": "0.00"
+	},
+	".beer": {
+		"usage": 22684,
+		"percentage": "0.00"
+	},
+	".nrw": {
+		"usage": 22236,
+		"percentage": "0.00"
+	},
+	".institute": {
+		"usage": 22205,
+		"percentage": "0.00"
+	},
+	".properties": {
+		"usage": 22032,
+		"percentage": "0.00"
+	},
+	".hn": {
+		"usage": 21863,
+		"percentage": "0.00"
+	},
+	".kh": {
+		"usage": 21734,
+		"percentage": "0.00"
+	},
+	".engineering": {
+		"usage": 21691,
+		"percentage": "0.00"
+	},
+	".bzh": {
+		"usage": 21509,
+		"percentage": "0.00"
+	},
+	".tj": {
+		"usage": 21386,
+		"percentage": "0.00"
+	},
+	".fashion": {
+		"usage": 21343,
+		"percentage": "0.00"
+	},
+	".ooo": {
+		"usage": 21172,
+		"percentage": "0.00"
+	},
+	".boutique": {
+		"usage": 21010,
+		"percentage": "0.00"
+	},
+	".frl": {
+		"usage": 20876,
+		"percentage": "0.00"
+	},
+	".delivery": {
+		"usage": 20703,
+		"percentage": "0.00"
+	},
+	".menu": {
+		"usage": 20503,
+		"percentage": "0.00"
+	},
+	".miami": {
+		"usage": 20287,
+		"percentage": "0.00"
+	},
+	".clinic": {
+		"usage": 20272,
+		"percentage": "0.00"
+	},
+	".pet": {
+		"usage": 20264,
+		"percentage": "0.00"
+	},
+	".yt": {
+		"usage": 20152,
+		"percentage": "0.00"
+	},
+	".af": {
+		"usage": 20088,
+		"percentage": "0.00"
+	},
+	".lb": {
+		"usage": 20074,
+		"percentage": "0.00"
+	},
+	".onl": {
+		"usage": 20031,
+		"percentage": "0.00"
+	},
+	".reviews": {
+		"usage": 19919,
+		"percentage": "0.00"
+	},
+	".fo": {
+		"usage": 19906,
+		"percentage": "0.00"
+	},
+	".dance": {
+		"usage": 19889,
+		"percentage": "0.00"
+	},
+	".place": {
+		"usage": 19682,
+		"percentage": "0.00"
+	},
+	".tours": {
+		"usage": 19467,
+		"percentage": "0.00"
+	},
+	".tm": {
+		"usage": 19272,
+		"percentage": "0.00"
+	},
+	".clothing": {
+		"usage": 19203,
+		"percentage": "0.00"
+	},
+	".express": {
+		"usage": 18961,
+		"percentage": "0.00"
+	},
+	".kiwi": {
+		"usage": 18907,
+		"percentage": "0.00"
+	},
+	".homes": {
+		"usage": 18728,
+		"percentage": "0.00"
+	},
+	".pizza": {
+		"usage": 18647,
+		"percentage": "0.00"
+	},
+	".realestate": {
+		"usage": 18627,
+		"percentage": "0.00"
+	},
+	".vision": {
+		"usage": 18491,
+		"percentage": "0.00"
+	},
+	".zm": {
+		"usage": 18407,
+		"percentage": "0.00"
+	},
+	".bm": {
+		"usage": 18147,
+		"percentage": "0.00"
+	},
+	".estate": {
+		"usage": 18081,
+		"percentage": "0.00"
+	},
+	".management": {
+		"usage": 18080,
+		"percentage": "0.00"
+	},
+	".int": {
+		"usage": 18041,
+		"percentage": "0.00"
+	},
+	".mv": {
+		"usage": 18030,
+		"percentage": "0.00"
+	},
+	".vegas": {
+		"usage": 17980,
+		"percentage": "0.00"
+	},
+	".cards": {
+		"usage": 17695,
+		"percentage": "0.00"
+	},
+	".partners": {
+		"usage": 17580,
+		"percentage": "0.00"
+	},
+	".xin": {
+		"usage": 17488,
+		"percentage": "0.00"
+	},
+	".goog": {
+		"usage": 17481,
+		"percentage": "0.00"
+	},
+	".rentals": {
+		"usage": 17139,
+		"percentage": "0.00"
+	},
+	".lat": {
+		"usage": 17072,
+		"percentage": "0.00"
+	},
+	".rip": {
+		"usage": 16923,
+		"percentage": "0.00"
+	},
+	".jetzt": {
+		"usage": 16913,
+		"percentage": "0.00"
+	},
+	".deals": {
+		"usage": 16721,
+		"percentage": "0.00"
+	},
+	".pictures": {
+		"usage": 16634,
+		"percentage": "0.00"
+	},
+	".productions": {
+		"usage": 16577,
+		"percentage": "0.00"
+	},
+	".nr": {
+		"usage": 16349,
+		"percentage": "0.00"
+	},
+	".ren": {
+		"usage": 16317,
+		"percentage": "0.00"
+	},
+	".date": {
+		"usage": 16137,
+		"percentage": "0.00"
+	},
+	".jo": {
+		"usage": 15438,
+		"percentage": "0.00"
+	},
+	".cymru": {
+		"usage": 15311,
+		"percentage": "0.00"
+	},
+	".cu": {
+		"usage": 15049,
+		"percentage": "0.00"
+	},
+	".sc": {
+		"usage": 15044,
+		"percentage": "0.00"
+	},
+	".tax": {
+		"usage": 15018,
+		"percentage": "0.00"
+	},
+	".xn–80adxhks": {
+		"usage": 14989,
+		"percentage": "0.00"
+	},
+	".contact": {
+		"usage": 14988,
+		"percentage": "0.00"
+	},
+	".xn–90ais": {
+		"usage": 14944,
+		"percentage": "0.00"
+	},
+	".kim": {
+		"usage": 14871,
+		"percentage": "0.00"
+	},
+	".camp": {
+		"usage": 14717,
+		"percentage": "0.00"
+	},
+	".gay": {
+		"usage": 14706,
+		"percentage": "0.00"
+	},
+	".report": {
+		"usage": 14684,
+		"percentage": "0.00"
+	},
+	".pink": {
+		"usage": 14642,
+		"percentage": "0.00"
+	},
+	".solar": {
+		"usage": 14612,
+		"percentage": "0.00"
+	},
+	".tirol": {
+		"usage": 14406,
+		"percentage": "0.00"
+	},
+	".repair": {
+		"usage": 14369,
+		"percentage": "0.00"
+	},
+	".construction": {
+		"usage": 14299,
+		"percentage": "0.00"
+	},
+	".dental": {
+		"usage": 14254,
+		"percentage": "0.00"
+	},
+	".srl": {
+		"usage": 14243,
+		"percentage": "0.00"
+	},
+	".careers": {
+		"usage": 14183,
+		"percentage": "0.00"
+	},
+	".casino": {
+		"usage": 14129,
+		"percentage": "0.00"
+	},
+	".bn": {
+		"usage": 14043,
+		"percentage": "0.00"
+	},
+	".xn–55qx5d": {
+		"usage": 13927,
+		"percentage": "0.00"
+	},
+	".pg": {
+		"usage": 13876,
+		"percentage": "0.00"
+	},
+	".gal": {
+		"usage": 13873,
+		"percentage": "0.00"
+	},
+	".sm": {
+		"usage": 13529,
+		"percentage": "0.00"
+	},
+	".kitchen": {
+		"usage": 13463,
+		"percentage": "0.00"
+	},
+	".black": {
+		"usage": 13450,
+		"percentage": "0.00"
+	},
+	".tf": {
+		"usage": 13307,
+		"percentage": "0.00"
+	},
+	".quebec": {
+		"usage": 13278,
+		"percentage": "0.00"
+	},
+	".restaurant": {
+		"usage": 13277,
+		"percentage": "0.00"
+	},
+	".haus": {
+		"usage": 13238,
+		"percentage": "0.00"
+	},
+	".lawyer": {
+		"usage": 13229,
+		"percentage": "0.00"
+	},
+	".healthcare": {
+		"usage": 13172,
+		"percentage": "0.00"
+	},
+	".cologne": {
+		"usage": 13082,
+		"percentage": "0.00"
+	},
+	".xn–czr694b": {
+		"usage": 13038,
+		"percentage": "0.00"
+	},
+	".graphics": {
+		"usage": 12965,
+		"percentage": "0.00"
+	},
+	".je": {
+		"usage": 12928,
+		"percentage": "0.00"
+	},
+	".ax": {
+		"usage": 12909,
+		"percentage": "0.00"
+	},
+	".iq": {
+		"usage": 12875,
+		"percentage": "0.00"
+	},
+	".lc": {
+		"usage": 12866,
+		"percentage": "0.00"
+	},
+	".taxi": {
+		"usage": 12849,
+		"percentage": "0.00"
+	},
+	".kw": {
+		"usage": 12451,
+		"percentage": "0.00"
+	},
+	".promo": {
+		"usage": 12433,
+		"percentage": "0.00"
+	},
+	".sydney": {
+		"usage": 12416,
+		"percentage": "0.00"
+	},
+	".ist": {
+		"usage": 12403,
+		"percentage": "0.00"
+	},
+	".pics": {
+		"usage": 12308,
+		"percentage": "0.00"
+	},
+	".computer": {
+		"usage": 12165,
+		"percentage": "0.00"
+	},
+	".university": {
+		"usage": 11877,
+		"percentage": "0.00"
+	},
+	".town": {
+		"usage": 11632,
+		"percentage": "0.00"
+	},
+	".vin": {
+		"usage": 11631,
+		"percentage": "0.00"
+	},
+	".om": {
+		"usage": 11573,
+		"percentage": "0.00"
+	},
+	".supply": {
+		"usage": 11565,
+		"percentage": "0.00"
+	},
+	".cd": {
+		"usage": 11564,
+		"percentage": "0.00"
+	},
+	".green": {
+		"usage": 11356,
+		"percentage": "0.00"
+	},
+	".melbourne": {
+		"usage": 11320,
+		"percentage": "0.00"
+	},
+	".bt": {
+		"usage": 11259,
+		"percentage": "0.00"
+	},
+	".brussels": {
+		"usage": 10785,
+		"percentage": "0.00"
+	},
+	".film": {
+		"usage": 10763,
+		"percentage": "0.00"
+	},
+	".bank": {
+		"usage": 10741,
+		"percentage": "0.00"
+	},
+	".eco": {
+		"usage": 10651,
+		"percentage": "0.00"
+	},
+	".holdings": {
+		"usage": 10580,
+		"percentage": "0.00"
+	},
+	".loan": {
+		"usage": 10556,
+		"percentage": "0.00"
+	},
+	".sucks": {
+		"usage": 10535,
+		"percentage": "0.00"
+	},
+	".rent": {
+		"usage": 10391,
+		"percentage": "0.00"
+	},
+	".parts": {
+		"usage": 10291,
+		"percentage": "0.00"
+	},
+	".cv": {
+		"usage": 10285,
+		"percentage": "0.00"
+	},
+	".sd": {
+		"usage": 10279,
+		"percentage": "0.00"
+	},
+	".enterprises": {
+		"usage": 10239,
+		"percentage": "0.00"
+	},
+	".limited": {
+		"usage": 10015,
+		"percentage": "0.00"
+	},
+	".fish": {
+		"usage": 9959,
+		"percentage": "0.00"
+	},
+	".shopping": {
+		"usage": 9895,
+		"percentage": "0.00"
+	},
+	".ski": {
+		"usage": 9706,
+		"percentage": "0.00"
+	},
+	".immobilien": {
+		"usage": 9549,
+		"percentage": "0.00"
+	},
+	".faith": {
+		"usage": 9546,
+		"percentage": "0.00"
+	},
+	".financial": {
+		"usage": 9501,
+		"percentage": "0.00"
+	},
+	".gift": {
+		"usage": 9461,
+		"percentage": "0.00"
+	},
+	".sexy": {
+		"usage": 9453,
+		"percentage": "0.00"
+	},
+	".industries": {
+		"usage": 9428,
+		"percentage": "0.00"
+	},
+	".gifts": {
+		"usage": 9414,
+		"percentage": "0.00"
+	},
+	".football": {
+		"usage": 9388,
+		"percentage": "0.00"
+	},
+	".fail": {
+		"usage": 9340,
+		"percentage": "0.00"
+	},
+	".istanbul": {
+		"usage": 9260,
+		"percentage": "0.00"
+	},
+	".xn–j1amh": {
+		"usage": 9187,
+		"percentage": "0.00"
+	},
+	".porn": {
+		"usage": 9086,
+		"percentage": "0.00"
+	},
+	".toys": {
+		"usage": 9035,
+		"percentage": "0.00"
+	},
+	".gratis": {
+		"usage": 8932,
+		"percentage": "0.00"
+	},
+	".schule": {
+		"usage": 8902,
+		"percentage": "0.00"
+	},
+	".builders": {
+		"usage": 8670,
+		"percentage": "0.00"
+	},
+	".lighting": {
+		"usage": 8661,
+		"percentage": "0.00"
+	},
+	".moda": {
+		"usage": 8580,
+		"percentage": "0.00"
+	},
+	".doctor": {
+		"usage": 8533,
+		"percentage": "0.00"
+	},
+	".mm": {
+		"usage": 8513,
+		"percentage": "0.00"
+	},
+	".sx": {
+		"usage": 8503,
+		"percentage": "0.00"
+	},
+	".dating": {
+		"usage": 8463,
+		"percentage": "0.00"
+	},
+	".audio": {
+		"usage": 8456,
+		"percentage": "0.00"
+	},
+	".gy": {
+		"usage": 8377,
+		"percentage": "0.00"
+	},
+	".quest": {
+		"usage": 8366,
+		"percentage": "0.00"
+	},
+	".sr": {
+		"usage": 8340,
+		"percentage": "0.00"
+	},
+	".sex": {
+		"usage": 8323,
+		"percentage": "0.00"
+	},
+	".xn–80asehdb": {
+		"usage": 8320,
+		"percentage": "0.00"
+	},
+	".vlaanderen": {
+		"usage": 8297,
+		"percentage": "0.00"
+	},
+	".florist": {
+		"usage": 8290,
+		"percentage": "0.00"
+	},
+	".ruhr": {
+		"usage": 8269,
+		"percentage": "0.00"
+	},
+	".ngo": {
+		"usage": 8190,
+		"percentage": "0.00"
+	},
+	".mba": {
+		"usage": 8148,
+		"percentage": "0.00"
+	},
+	".nagoya": {
+		"usage": 8131,
+		"percentage": "0.00"
+	},
+	".vote": {
+		"usage": 8118,
+		"percentage": "0.00"
+	},
+	".bs": {
+		"usage": 8043,
+		"percentage": "0.00"
+	},
+	".recipes": {
+		"usage": 7961,
+		"percentage": "0.00"
+	},
+	".reisen": {
+		"usage": 7935,
+		"percentage": "0.00"
+	},
+	".bj": {
+		"usage": 7918,
+		"percentage": "0.00"
+	},
+	".gm": {
+		"usage": 7898,
+		"percentage": "0.00"
+	},
+	".kaufen": {
+		"usage": 7857,
+		"percentage": "0.00"
+	},
+	".college": {
+		"usage": 7789,
+		"percentage": "0.00"
+	},
+	".investments": {
+		"usage": 7736,
+		"percentage": "0.00"
+	},
+	".bh": {
+		"usage": 7700,
+		"percentage": "0.00"
+	},
+	".xn–io0a7i": {
+		"usage": 7681,
+		"percentage": "0.00"
+	},
+	".shoes": {
+		"usage": 7679,
+		"percentage": "0.00"
+	},
+	".auction": {
+		"usage": 7677,
+		"percentage": "0.00"
+	},
+	".jcp": {
+		"usage": 7591,
+		"percentage": "0.00"
+	},
+	".credit": {
+		"usage": 7578,
+		"percentage": "0.00"
+	},
+	".bi": {
+		"usage": 7564,
+		"percentage": "0.00"
+	},
+	".xn–czru2d": {
+		"usage": 7561,
+		"percentage": "0.00"
+	},
+	".insure": {
+		"usage": 7554,
+		"percentage": "0.00"
+	},
+	".jm": {
+		"usage": 7546,
+		"percentage": "0.00"
+	},
+	".okinawa": {
+		"usage": 7507,
+		"percentage": "0.00"
+	},
+	".tube": {
+		"usage": 7491,
+		"percentage": "0.00"
+	},
+	".cpa": {
+		"usage": 7458,
+		"percentage": "0.00"
+	},
+	".gi": {
+		"usage": 7381,
+		"percentage": "0.00"
+	},
+	".attorney": {
+		"usage": 7353,
+		"percentage": "0.00"
+	},
+	".apartments": {
+		"usage": 7338,
+		"percentage": "0.00"
+	},
+	".equipment": {
+		"usage": 7290,
+		"percentage": "0.00"
+	},
+	".tg": {
+		"usage": 7234,
+		"percentage": "0.00"
+	},
+	".barcelona": {
+		"usage": 7205,
+		"percentage": "0.00"
+	},
+	".garden": {
+		"usage": 7143,
+		"percentage": "0.00"
+	},
+	".dj": {
+		"usage": 7116,
+		"percentage": "0.00"
+	},
+	".mo": {
+		"usage": 7084,
+		"percentage": "0.00"
+	},
+	".yokohama": {
+		"usage": 7072,
+		"percentage": "0.00"
+	},
+	".tattoo": {
+		"usage": 7046,
+		"percentage": "0.00"
+	},
+	".loans": {
+		"usage": 7041,
+		"percentage": "0.00"
+	},
+	".engineer": {
+		"usage": 7026,
+		"percentage": "0.00"
+	},
+	".et": {
+		"usage": 6998,
+		"percentage": "0.00"
+	},
+	".sb": {
+		"usage": 6821,
+		"percentage": "0.00"
+	},
+	".fans": {
+		"usage": 6789,
+		"percentage": "0.00"
+	},
+	".racing": {
+		"usage": 6601,
+		"percentage": "0.00"
+	},
+	".vi": {
+		"usage": 6585,
+		"percentage": "0.00"
+	},
+	".cfd": {
+		"usage": 6546,
+		"percentage": "0.00"
+	},
+	".fan": {
+		"usage": 6543,
+		"percentage": "0.00"
+	},
+	".forsale": {
+		"usage": 6506,
+		"percentage": "0.00"
+	},
+	".jewelry": {
+		"usage": 6409,
+		"percentage": "0.00"
+	},
+	".bond": {
+		"usage": 6384,
+		"percentage": "0.00"
+	},
+	".saarland": {
+		"usage": 6341,
+		"percentage": "0.00"
+	},
+	".holiday": {
+		"usage": 6329,
+		"percentage": "0.00"
+	},
+	".durban": {
+		"usage": 6308,
+		"percentage": "0.00"
+	},
+	".cheap": {
+		"usage": 6285,
+		"percentage": "0.00"
+	},
+	".gent": {
+		"usage": 6258,
+		"percentage": "0.00"
+	},
+	".glass": {
+		"usage": 6229,
+		"percentage": "0.00"
+	},
+	".salon": {
+		"usage": 6168,
+		"percentage": "0.00"
+	},
+	".associates": {
+		"usage": 6126,
+		"percentage": "0.00"
+	},
+	".study": {
+		"usage": 6093,
+		"percentage": "0.00"
+	},
+	".army": {
+		"usage": 6080,
+		"percentage": "0.00"
+	},
+	".xn–3ds443g": {
+		"usage": 6046,
+		"percentage": "0.00"
+	},
+	".sbs": {
+		"usage": 5994,
+		"percentage": "0.00"
+	},
+	".cab": {
+		"usage": 5987,
+		"percentage": "0.00"
+	},
+	".webcam": {
+		"usage": 5951,
+		"percentage": "0.00"
+	},
+	".ki": {
+		"usage": 5864,
+		"percentage": "0.00"
+	},
+	".cleaning": {
+		"usage": 5799,
+		"percentage": "0.00"
+	},
+	".pr": {
+		"usage": 5791,
+		"percentage": "0.00"
+	},
+	".dentist": {
+		"usage": 5781,
+		"percentage": "0.00"
+	},
+	".discount": {
+		"usage": 5688,
+		"percentage": "0.00"
+	},
+	".shiksha": {
+		"usage": 5670,
+		"percentage": "0.00"
+	},
+	".baby": {
+		"usage": 5650,
+		"percentage": "0.00"
+	},
+	".catering": {
+		"usage": 5627,
+		"percentage": "0.00"
+	},
+	".adult": {
+		"usage": 5582,
+		"percentage": "0.00"
+	},
+	".mortgage": {
+		"usage": 5546,
+		"percentage": "0.00"
+	},
+	".dvag": {
+		"usage": 5513,
+		"percentage": "0.00"
+	},
+	".movie": {
+		"usage": 5510,
+		"percentage": "0.00"
+	},
+	".archi": {
+		"usage": 5493,
+		"percentage": "0.00"
+	},
+	".condos": {
+		"usage": 5473,
+		"percentage": "0.00"
+	},
+	".poker": {
+		"usage": 5432,
+		"percentage": "0.00"
+	},
+	".camera": {
+		"usage": 5412,
+		"percentage": "0.00"
+	},
+	".how": {
+		"usage": 5389,
+		"percentage": "0.00"
+	},
+	".mw": {
+		"usage": 5378,
+		"percentage": "0.00"
+	},
+	".xn–90ae": {
+		"usage": 5366,
+		"percentage": "0.00"
+	},
+	".contractors": {
+		"usage": 5343,
+		"percentage": "0.00"
+	},
+	".mom": {
+		"usage": 5222,
+		"percentage": "0.00"
+	},
+	".tienda": {
+		"usage": 5211,
+		"percentage": "0.00"
+	},
+	".xn–6qq986b3xl": {
+		"usage": 5176,
+		"percentage": "0.00"
+	},
+	".irish": {
+		"usage": 5058,
+		"percentage": "0.00"
+	},
+	".furniture": {
+		"usage": 5020,
+		"percentage": "0.00"
+	},
+	".sl": {
+		"usage": 5013,
+		"percentage": "0.00"
+	},
+	".horse": {
+		"usage": 4940,
+		"percentage": "0.00"
+	},
+	".exposed": {
+		"usage": 4938,
+		"percentage": "0.00"
+	},
+	".courses": {
+		"usage": 4891,
+		"percentage": "0.00"
+	},
+	".xn–tckwe": {
+		"usage": 4825,
+		"percentage": "0.00"
+	},
+	".supplies": {
+		"usage": 4821,
+		"percentage": "0.00"
+	},
+	".vacations": {
+		"usage": 4789,
+		"percentage": "0.00"
+	},
+	".singles": {
+		"usage": 4737,
+		"percentage": "0.00"
+	},
+	".sy": {
+		"usage": 4679,
+		"percentage": "0.00"
+	},
+	".lgbt": {
+		"usage": 4667,
+		"percentage": "0.00"
+	},
+	".sz": {
+		"usage": 4488,
+		"percentage": "0.00"
+	},
+	".plumbing": {
+		"usage": 4476,
+		"percentage": "0.00"
+	},
+	".property": {
+		"usage": 4443,
+		"percentage": "0.00"
+	},
+	".inc": {
+		"usage": 4442,
+		"percentage": "0.00"
+	},
+	".ck": {
+		"usage": 4375,
+		"percentage": "0.00"
+	},
+	".claims": {
+		"usage": 4307,
+		"percentage": "0.00"
+	},
+	".soccer": {
+		"usage": 4246,
+		"percentage": "0.00"
+	},
+	".xn–qxam": {
+		"usage": 4225,
+		"percentage": "0.00"
+	},
+	".xn–j6w193g": {
+		"usage": 4137,
+		"percentage": "0.00"
+	},
+	".boston": {
+		"usage": 4136,
+		"percentage": "0.00"
+	},
+	".voyage": {
+		"usage": 4120,
+		"percentage": "0.00"
+	},
+	".mh": {
+		"usage": 4112,
+		"percentage": "0.00"
+	},
+	".bible": {
+		"usage": 4099,
+		"percentage": "0.00"
+	},
+	".cooking": {
+		"usage": 4087,
+		"percentage": "0.00"
+	},
+	".bnpparibas": {
+		"usage": 4072,
+		"percentage": "0.00"
+	},
+	".beauty": {
+		"usage": 4029,
+		"percentage": "0.00"
+	},
+	".mr": {
+		"usage": 4019,
+		"percentage": "0.00"
+	},
+	".alsace": {
+		"usage": 3871,
+		"percentage": "0.00"
+	},
+	".bf": {
+		"usage": 3821,
+		"percentage": "0.00"
+	},
+	".coupons": {
+		"usage": 3808,
+		"percentage": "0.00"
+	},
+	".radio": {
+		"usage": 3776,
+		"percentage": "0.00"
+	},
+	".ong": {
+		"usage": 3704,
+		"percentage": "0.00"
+	},
+	".fk": {
+		"usage": 3689,
+		"percentage": "0.00"
+	},
+	".audi": {
+		"usage": 3648,
+		"percentage": "0.00"
+	},
+	".game": {
+		"usage": 3594,
+		"percentage": "0.00"
+	},
+	".actor": {
+		"usage": 3491,
+		"percentage": "0.00"
+	},
+	".corsica": {
+		"usage": 3441,
+		"percentage": "0.00"
+	},
+	".madrid": {
+		"usage": 3395,
+		"percentage": "0.00"
+	},
+	".limo": {
+		"usage": 3361,
+		"percentage": "0.00"
+	},
+	".xn–mk1bu44c": {
+		"usage": 3279,
+		"percentage": "0.00"
+	},
+	".diamonds": {
+		"usage": 3196,
+		"percentage": "0.00"
+	},
+	".xn–3e0b707e": {
+		"usage": 3192,
+		"percentage": "0.00"
+	},
+	".cg": {
+		"usage": 3156,
+		"percentage": "0.00"
+	},
+	".futbol": {
+		"usage": 3117,
+		"percentage": "0.00"
+	},
+	".charity": {
+		"usage": 3017,
+		"percentage": "0.00"
+	},
+	".soy": {
+		"usage": 2993,
+		"percentage": "0.00"
+	},
+	".rehab": {
+		"usage": 2984,
+		"percentage": "0.00"
+	},
+	".luxe": {
+		"usage": 2982,
+		"percentage": "0.00"
+	},
+	".bb": {
+		"usage": 2871,
+		"percentage": "0.00"
+	},
+	".krd": {
+		"usage": 2866,
+		"percentage": "0.00"
+	},
+	".fishing": {
+		"usage": 2855,
+		"percentage": "0.00"
+	},
+	".villas": {
+		"usage": 2852,
+		"percentage": "0.00"
+	},
+	".trading": {
+		"usage": 2837,
+		"percentage": "0.00"
+	},
+	".flights": {
+		"usage": 2826,
+		"percentage": "0.00"
+	},
+	".xn–90a3ac": {
+		"usage": 2816,
+		"percentage": "0.00"
+	},
+	".taipei": {
+		"usage": 2755,
+		"percentage": "0.00"
+	},
+	".hm": {
+		"usage": 2686,
+		"percentage": "0.00"
+	},
+	".surgery": {
+		"usage": 2661,
+		"percentage": "0.00"
+	},
+	".dm": {
+		"usage": 2622,
+		"percentage": "0.00"
+	},
+	".lease": {
+		"usage": 2586,
+		"percentage": "0.00"
+	},
+	".xn–kput3i": {
+		"usage": 2580,
+		"percentage": "0.00"
+	},
+	".gives": {
+		"usage": 2576,
+		"percentage": "0.00"
+	},
+	".tennis": {
+		"usage": 2527,
+		"percentage": "0.00"
+	},
+	".gdn": {
+		"usage": 2506,
+		"percentage": "0.00"
+	},
+	".cruises": {
+		"usage": 2477,
+		"percentage": "0.00"
+	},
+	".organic": {
+		"usage": 2440,
+		"percentage": "0.00"
+	},
+	".cricket": {
+		"usage": 2438,
+		"percentage": "0.00"
+	},
+	".degree": {
+		"usage": 2431,
+		"percentage": "0.00"
+	},
+	".hospital": {
+		"usage": 2430,
+		"percentage": "0.00"
+	},
+	".bargains": {
+		"usage": 2420,
+		"percentage": "0.00"
+	},
+	".accountants": {
+		"usage": 2414,
+		"percentage": "0.00"
+	},
+	".theater": {
+		"usage": 2385,
+		"percentage": "0.00"
+	},
+	".bingo": {
+		"usage": 2377,
+		"percentage": "0.00"
+	},
+	".xn–80aswg": {
+		"usage": 2360,
+		"percentage": "0.00"
+	},
+	".vodka": {
+		"usage": 2335,
+		"percentage": "0.00"
+	},
+	".bot": {
+		"usage": 2273,
+		"percentage": "0.00"
+	},
+	".luxury": {
+		"usage": 2245,
+		"percentage": "0.00"
+	},
+	".observer": {
+		"usage": 2195,
+		"percentage": "0.00"
+	},
+	".physio": {
+		"usage": 2154,
+		"percentage": "0.00"
+	},
+	".sarl": {
+		"usage": 2147,
+		"percentage": "0.00"
+	},
+	".accountant": {
+		"usage": 2142,
+		"percentage": "0.00"
+	},
+	".gop": {
+		"usage": 2111,
+		"percentage": "0.00"
+	},
+	".christmas": {
+		"usage": 2095,
+		"percentage": "0.00"
+	},
+	".hair": {
+		"usage": 2085,
+		"percentage": "0.00"
+	},
+	".ne": {
+		"usage": 2085,
+		"percentage": "0.00"
+	},
+	".diet": {
+		"usage": 2019,
+		"percentage": "0.00"
+	},
+	".hockey": {
+		"usage": 1996,
+		"percentage": "0.00"
+	},
+	".versicherung": {
+		"usage": 1976,
+		"percentage": "0.00"
+	},
+	".rodeo": {
+		"usage": 1892,
+		"percentage": "0.00"
+	},
+	".xn–9dbq2a": {
+		"usage": 1877,
+		"percentage": "0.00"
+	},
+	".skin": {
+		"usage": 1876,
+		"percentage": "0.00"
+	},
+	".museum": {
+		"usage": 1845,
+		"percentage": "0.00"
+	},
+	".bmw": {
+		"usage": 1843,
+		"percentage": "0.00"
+	},
+	".markets": {
+		"usage": 1834,
+		"percentage": "0.00"
+	},
+	".desi": {
+		"usage": 1743,
+		"percentage": "0.00"
+	},
+	".rio": {
+		"usage": 1736,
+		"percentage": "0.00"
+	},
+	".maison": {
+		"usage": 1719,
+		"percentage": "0.00"
+	},
+	".country": {
+		"usage": 1699,
+		"percentage": "0.00"
+	},
+	".kyoto": {
+		"usage": 1672,
+		"percentage": "0.00"
+	},
+	".mma": {
+		"usage": 1650,
+		"percentage": "0.00"
+	},
+	".sport": {
+		"usage": 1632,
+		"percentage": "0.00"
+	},
+	".xn–vuq861b": {
+		"usage": 1613,
+		"percentage": "0.00"
+	},
+	".flowers": {
+		"usage": 1608,
+		"percentage": "0.00"
+	},
+	".new": {
+		"usage": 1604,
+		"percentage": "0.00"
+	},
+	".navy": {
+		"usage": 1580,
+		"percentage": "0.00"
+	},
+	".seat": {
+		"usage": 1568,
+		"percentage": "0.00"
+	},
+	".broker": {
+		"usage": 1564,
+		"percentage": "0.00"
+	},
+	".viajes": {
+		"usage": 1559,
+		"percentage": "0.00"
+	},
+	".gw": {
+		"usage": 1485,
+		"percentage": "0.00"
+	},
+	".xn–c1avg": {
+		"usage": 1451,
+		"percentage": "0.00"
+	},
+	".makeup": {
+		"usage": 1412,
+		"percentage": "0.00"
+	},
+	".ltda": {
+		"usage": 1404,
+		"percentage": "0.00"
+	},
+	".autos": {
+		"usage": 1346,
+		"percentage": "0.00"
+	},
+	".neustar": {
+		"usage": 1342,
+		"percentage": "0.00"
+	},
+	".allfinanz": {
+		"usage": 1326,
+		"percentage": "0.00"
+	},
+	".xn–y9a3aq": {
+		"usage": 1325,
+		"percentage": "0.00"
+	},
+	".xn–e1a4c": {
+		"usage": 1318,
+		"percentage": "0.00"
+	},
+	".tatar": {
+		"usage": 1283,
+		"percentage": "0.00"
+	},
+	".sap": {
+		"usage": 1264,
+		"percentage": "0.00"
+	},
+	".xn–fiqz9s": {
+		"usage": 1256,
+		"percentage": "0.00"
+	},
+	".airforce": {
+		"usage": 1250,
+		"percentage": "0.00"
+	},
+	".reise": {
+		"usage": 1246,
+		"percentage": "0.00"
+	},
+	".republican": {
+		"usage": 1243,
+		"percentage": "0.00"
+	},
+	".career": {
+		"usage": 1240,
+		"percentage": "0.00"
+	},
+	".democrat": {
+		"usage": 1231,
+		"percentage": "0.00"
+	},
+	".td": {
+		"usage": 1221,
+		"percentage": "0.00"
+	},
+	".creditcard": {
+		"usage": 1210,
+		"percentage": "0.00"
+	},
+	".mq": {
+		"usage": 1199,
+		"percentage": "0.00"
+	},
+	".xn–hxt814e": {
+		"usage": 1155,
+		"percentage": "0.00"
+	},
+	".leclerc": {
+		"usage": 1138,
+		"percentage": "0.00"
+	},
+	".tires": {
+		"usage": 1110,
+		"percentage": "0.00"
+	},
+	".osaka": {
+		"usage": 1095,
+		"percentage": "0.00"
+	},
+	".gf": {
+		"usage": 1089,
+		"percentage": "0.00"
+	},
+	".xn–kpry57d": {
+		"usage": 1056,
+		"percentage": "0.00"
+	},
+	".lr": {
+		"usage": 1052,
+		"percentage": "0.00"
+	},
+	".boats": {
+		"usage": 1041,
+		"percentage": "0.00"
+	},
+	".kn": {
+		"usage": 1027,
+		"percentage": "0.00"
+	},
+	".xn–1qqw23a": {
+		"usage": 997,
+		"percentage": "0.00"
+	},
+	".xn–mgberp4a5d4ar": {
+		"usage": 995,
+		"percentage": "0.00"
+	},
+	".xn–6frz82g": {
+		"usage": 985,
+		"percentage": "0.00"
+	},
+	".va": {
+		"usage": 978,
+		"percentage": "0.00"
+	},
+	".abbott": {
+		"usage": 962,
+		"percentage": "0.00"
+	},
+	".pharmacy": {
+		"usage": 957,
+		"percentage": "0.00"
+	},
+	".xn–d1acj3b": {
+		"usage": 947,
+		"percentage": "0.00"
+	},
+	".basketball": {
+		"usage": 945,
+		"percentage": "0.00"
+	},
+	".memorial": {
+		"usage": 939,
+		"percentage": "0.00"
+	},
+	".feedback": {
+		"usage": 933,
+		"percentage": "0.00"
+	},
+	".aws": {
+		"usage": 908,
+		"percentage": "0.00"
+	},
+	".whoswho": {
+		"usage": 905,
+		"percentage": "0.00"
+	},
+	".blackfriday": {
+		"usage": 905,
+		"percentage": "0.00"
+	},
+	".guitars": {
+		"usage": 868,
+		"percentage": "0.00"
+	},
+	".gn": {
+		"usage": 864,
+		"percentage": "0.00"
+	},
+	".hiphop": {
+		"usage": 862,
+		"percentage": "0.00"
+	},
+	".ryukyu": {
+		"usage": 842,
+		"percentage": "0.00"
+	},
+	".xn–o3cw4h": {
+		"usage": 835,
+		"percentage": "0.00"
+	},
+	".crs": {
+		"usage": 828,
+		"percentage": "0.00"
+	},
+	".auto": {
+		"usage": 819,
+		"percentage": "0.00"
+	},
+	".xn–ngbc5azd": {
+		"usage": 811,
+		"percentage": "0.00"
+	},
+	".rugby": {
+		"usage": 803,
+		"percentage": "0.00"
+	},
+	".abogado": {
+		"usage": 786,
+		"percentage": "0.00"
+	},
+	".gripe": {
+		"usage": 785,
+		"percentage": "0.00"
+	},
+	".insurance": {
+		"usage": 782,
+		"percentage": "0.00"
+	},
+	".xn–t60b56a": {
+		"usage": 778,
+		"percentage": "0.00"
+	},
+	".xn–54b7fta0cc": {
+		"usage": 768,
+		"percentage": "0.00"
+	},
+	".xn–mgbaam7a8h": {
+		"usage": 757,
+		"percentage": "0.00"
+	},
+	".xn–q9jyb4c": {
+		"usage": 748,
+		"percentage": "0.00"
+	},
+	".forex": {
+		"usage": 739,
+		"percentage": "0.00"
+	},
+	".xn–h2brj9c": {
+		"usage": 737,
+		"percentage": "0.00"
+	},
+	".pn": {
+		"usage": 729,
+		"percentage": "0.00"
+	},
+	".tickets": {
+		"usage": 707,
+		"percentage": "0.00"
+	},
+	".abudhabi": {
+		"usage": 689,
+		"percentage": "0.00"
+	},
+	".yachts": {
+		"usage": 671,
+		"percentage": "0.00"
+	},
+	".xn–fiq228c5hs": {
+		"usage": 661,
+		"percentage": "0.00"
+	},
+	".motorcycles": {
+		"usage": 632,
+		"percentage": "0.00"
+	},
+	".xn–vhquv": {
+		"usage": 625,
+		"percentage": "0.00"
+	},
+	".security": {
+		"usage": 610,
+		"percentage": "0.00"
+	},
+	".xn–node": {
+		"usage": 593,
+		"percentage": "0.00"
+	},
+	".voto": {
+		"usage": 586,
+		"percentage": "0.00"
+	},
+	".juegos": {
+		"usage": 573,
+		"percentage": "0.00"
+	},
+	".car": {
+		"usage": 563,
+		"percentage": "0.00"
+	},
+	".schwarz": {
+		"usage": 559,
+		"percentage": "0.00"
+	},
+	".creditunion": {
+		"usage": 502,
+		"percentage": "0.00"
+	},
+	".weir": {
+		"usage": 468,
+		"percentage": "0.00"
+	},
+	".abb": {
+		"usage": 464,
+		"percentage": "0.00"
+	},
+	".godaddy": {
+		"usage": 451,
+		"percentage": "0.00"
+	},
+	".xn–rhqv96g": {
+		"usage": 447,
+		"percentage": "0.00"
+	},
+	".xn–5tzm5g": {
+		"usage": 430,
+		"percentage": "0.00"
+	},
+	".storage": {
+		"usage": 427,
+		"percentage": "0.00"
+	},
+	".lamborghini": {
+		"usage": 413,
+		"percentage": "0.00"
+	},
+	".gmx": {
+		"usage": 400,
+		"percentage": "0.00"
+	},
+	".aco": {
+		"usage": 399,
+		"percentage": "0.00"
+	},
+	".km": {
+		"usage": 394,
+		"percentage": "0.00"
+	},
+	".xn–czrs0t": {
+		"usage": 392,
+		"percentage": "0.00"
+	},
+	".ss": {
+		"usage": 392,
+		"percentage": "0.00"
+	},
+	".compare": {
+		"usage": 377,
+		"percentage": "0.00"
+	},
+	".xn–nqv7f": {
+		"usage": 377,
+		"percentage": "0.00"
+	},
+	".aq": {
+		"usage": 373,
+		"percentage": "0.00"
+	},
+	".cars": {
+		"usage": 365,
+		"percentage": "0.00"
+	},
+	".canon": {
+		"usage": 343,
+		"percentage": "0.00"
+	},
+	".hiv": {
+		"usage": 335,
+		"percentage": "0.00"
+	},
+	".xn–3bst00m": {
+		"usage": 317,
+		"percentage": "0.00"
+	},
+	".total": {
+		"usage": 316,
+		"percentage": "0.00"
+	},
+	".xn–mgbab2bd": {
+		"usage": 312,
+		"percentage": "0.00"
+	},
+	".cisco": {
+		"usage": 310,
+		"percentage": "0.00"
+	},
+	".post": {
+		"usage": 302,
+		"percentage": "0.00"
+	},
+	".weber": {
+		"usage": 301,
+		"percentage": "0.00"
+	},
+	".broadway": {
+		"usage": 300,
+		"percentage": "0.00"
+	},
+	".mini": {
+		"usage": 294,
+		"percentage": "0.00"
+	},
+	".xn–g2xx48c": {
+		"usage": 293,
+		"percentage": "0.00"
+	},
+	".moi": {
+		"usage": 285,
+		"percentage": "0.00"
+	},
+	".qpon": {
+		"usage": 272,
+		"percentage": "0.00"
+	},
+	".ntt": {
+		"usage": 263,
+		"percentage": "0.00"
+	},
+	".xn–kprw13d": {
+		"usage": 251,
+		"percentage": "0.00"
+	},
+	".man": {
+		"usage": 244,
+		"percentage": "0.00"
+	},
+	".sky": {
+		"usage": 242,
+		"percentage": "0.00"
+	},
+	".globo": {
+		"usage": 224,
+		"percentage": "0.00"
+	},
+	".forum": {
+		"usage": 223,
+		"percentage": "0.00"
+	},
+	".apple": {
+		"usage": 221,
+		"percentage": "0.00"
+	},
+	".mattel": {
+		"usage": 213,
+		"percentage": "0.00"
+	},
+	".xn–80ao21a": {
+		"usage": 210,
+		"percentage": "0.00"
+	},
+	".xn–d1alf": {
+		"usage": 203,
+		"percentage": "0.00"
+	},
+	".select": {
+		"usage": 202,
+		"percentage": "0.00"
+	},
+	".sncf": {
+		"usage": 199,
+		"percentage": "0.00"
+	},
+	".voting": {
+		"usage": 197,
+		"percentage": "0.00"
+	},
+	".edeka": {
+		"usage": 187,
+		"percentage": "0.00"
+	},
+	".barclays": {
+		"usage": 184,
+		"percentage": "0.00"
+	},
+	".xn–ogbpf8fl": {
+		"usage": 179,
+		"percentage": "0.00"
+	},
+	".xn–mgbayh7gpa": {
+		"usage": 178,
+		"percentage": "0.00"
+	},
+	".citic": {
+		"usage": 177,
+		"percentage": "0.00"
+	},
+	".fox": {
+		"usage": 177,
+		"percentage": "0.00"
+	},
+	".bradesco": {
+		"usage": 172,
+		"percentage": "0.00"
+	},
+	".kp": {
+		"usage": 171,
+		"percentage": "0.00"
+	},
+	".rich": {
+		"usage": 170,
+		"percentage": "0.00"
+	},
+	".xn–wgbh1c": {
+		"usage": 168,
+		"percentage": "0.00"
+	},
+	".dhl": {
+		"usage": 166,
+		"percentage": "0.00"
+	},
+	".stockholm": {
+		"usage": 159,
+		"percentage": "0.00"
+	},
+	".gu": {
+		"usage": 154,
+		"percentage": "0.00"
+	},
+	".jnj": {
+		"usage": 153,
+		"percentage": "0.00"
+	},
+	".xn–pgbs0dh": {
+		"usage": 149,
+		"percentage": "0.00"
+	},
+	".stada": {
+		"usage": 142,
+		"percentage": "0.00"
+	},
+	".xn–mgba3a4f16a": {
+		"usage": 137,
+		"percentage": "0.00"
+	},
+	".schaeffler": {
+		"usage": 136,
+		"percentage": "0.00"
+	},
+	".google": {
+		"usage": 135,
+		"percentage": "0.00"
+	},
+	".shell": {
+		"usage": 134,
+		"percentage": "0.00"
+	},
+	".pictet": {
+		"usage": 133,
+		"percentage": "0.00"
+	},
+	".lundbeck": {
+		"usage": 131,
+		"percentage": "0.00"
+	},
+	".er": {
+		"usage": 131,
+		"percentage": "0.00"
+	},
+	".erni": {
+		"usage": 127,
+		"percentage": "0.00"
+	},
+	".komatsu": {
+		"usage": 125,
+		"percentage": "0.00"
+	},
+	".afl": {
+		"usage": 124,
+		"percentage": "0.00"
+	},
+	".saxo": {
+		"usage": 123,
+		"percentage": "0.00"
+	},
+	".politie": {
+		"usage": 123,
+		"percentage": "0.00"
+	},
+	".schmidt": {
+		"usage": 122,
+		"percentage": "0.00"
+	},
+	".sbi": {
+		"usage": 116,
+		"percentage": "0.00"
+	},
+	".theatre": {
+		"usage": 114,
+		"percentage": "0.00"
+	},
+	".xn–wgbl6a": {
+		"usage": 113,
+		"percentage": "0.00"
+	},
+	".xn–4gbrim": {
+		"usage": 112,
+		"percentage": "0.00"
+	},
+	".yandex": {
+		"usage": 110,
+		"percentage": "0.00"
+	},
+	".lidl": {
+		"usage": 108,
+		"percentage": "0.00"
+	},
+	".fage": {
+		"usage": 108,
+		"percentage": "0.00"
+	},
+	".deloitte": {
+		"usage": 108,
+		"percentage": "0.00"
+	},
+	".trust": {
+		"usage": 107,
+		"percentage": "0.00"
+	},
+	".ifm": {
+		"usage": 106,
+		"percentage": "0.00"
+	},
+	".lipsy": {
+		"usage": 104,
+		"percentage": "0.00"
+	},
+	".toray": {
+		"usage": 103,
+		"percentage": "0.00"
+	},
+	".linde": {
+		"usage": 103,
+		"percentage": "0.00"
+	},
+	".xn–qxa6a": {
+		"usage": 103,
+		"percentage": "0.00"
+	},
+	".firmdale": {
+		"usage": 102,
+		"percentage": "0.00"
+	},
+	".cern": {
+		"usage": 101,
+		"percentage": "0.00"
+	},
+	".sandvik": {
+		"usage": 99,
+		"percentage": "0.00"
+	},
+	".meet": {
+		"usage": 98,
+		"percentage": "0.00"
+	},
+	".sharp": {
+		"usage": 97,
+		"percentage": "0.00"
+	},
+	".xn–l1acc": {
+		"usage": 97,
+		"percentage": "0.00"
+	},
+	".reit": {
+		"usage": 96,
+		"percentage": "0.00"
+	},
+	".kpn": {
+		"usage": 96,
+		"percentage": "0.00"
+	},
+	".pru": {
+		"usage": 95,
+		"percentage": "0.00"
+	},
+	".cba": {
+		"usage": 95,
+		"percentage": "0.00"
+	},
+	".discover": {
+		"usage": 93,
+		"percentage": "0.00"
+	},
+	".dealer": {
+		"usage": 91,
+		"percentage": "0.00"
+	},
+	".teva": {
+		"usage": 91,
+		"percentage": "0.00"
+	},
+	".sener": {
+		"usage": 88,
+		"percentage": "0.00"
+	},
+	".next": {
+		"usage": 86,
+		"percentage": "0.00"
+	},
+	".prudential": {
+		"usage": 86,
+		"percentage": "0.00"
+	},
+	".xn–fjq720a": {
+		"usage": 85,
+		"percentage": "0.00"
+	},
+	".xn–unup4y": {
+		"usage": 84,
+		"percentage": "0.00"
+	},
+	".bloomberg": {
+		"usage": 83,
+		"percentage": "0.00"
+	},
+	".axa": {
+		"usage": 82,
+		"percentage": "0.00"
+	},
+	".xn–i1b6b1a6a2e": {
+		"usage": 78,
+		"percentage": "0.00"
+	},
+	".auspost": {
+		"usage": 78,
+		"percentage": "0.00"
+	},
+	".statefarm": {
+		"usage": 77,
+		"percentage": "0.00"
+	},
+	".protection": {
+		"usage": 77,
+		"percentage": "0.00"
+	},
+	".xn–xhq521b": {
+		"usage": 76,
+		"percentage": "0.00"
+	},
+	".ikano": {
+		"usage": 75,
+		"percentage": "0.00"
+	},
+	".monash": {
+		"usage": 75,
+		"percentage": "0.00"
+	},
+	".ricoh": {
+		"usage": 75,
+		"percentage": "0.00"
+	},
+	".lotto": {
+		"usage": 74,
+		"percentage": "0.00"
+	},
+	".kpmg": {
+		"usage": 73,
+		"percentage": "0.00"
+	},
+	".bostik": {
+		"usage": 71,
+		"percentage": "0.00"
+	},
+	".xn–cck2b3b": {
+		"usage": 70,
+		"percentage": "0.00"
+	},
+	".xn–ygbi2ammx": {
+		"usage": 69,
+		"percentage": "0.00"
+	},
+	".aquarelle": {
+		"usage": 68,
+		"percentage": "0.00"
+	},
+	".woodside": {
+		"usage": 68,
+		"percentage": "0.00"
+	},
+	".hisamitsu": {
+		"usage": 66,
+		"percentage": "0.00"
+	},
+	".microsoft": {
+		"usage": 66,
+		"percentage": "0.00"
+	},
+	".xn–otu796d": {
+		"usage": 64,
+		"percentage": "0.00"
+	},
+	".mango": {
+		"usage": 64,
+		"percentage": "0.00"
+	},
+	".xn–xkc2dl3a5ee0h": {
+		"usage": 64,
+		"percentage": "0.00"
+	},
+	".uol": {
+		"usage": 61,
+		"percentage": "0.00"
+	},
+	".nico": {
+		"usage": 59,
+		"percentage": "0.00"
+	},
+	".xn–zfr164b": {
+		"usage": 58,
+		"percentage": "0.00"
+	},
+	".bentley": {
+		"usage": 57,
+		"percentage": "0.00"
+	},
+	".sanofi": {
+		"usage": 56,
+		"percentage": "0.00"
+	},
+	".mlb": {
+		"usage": 56,
+		"percentage": "0.00"
+	},
+	".arte": {
+		"usage": 56,
+		"percentage": "0.00"
+	},
+	".ismaili": {
+		"usage": 56,
+		"percentage": "0.00"
+	},
+	".xn–3hcrj9c": {
+		"usage": 55,
+		"percentage": "0.00"
+	},
+	".scb": {
+		"usage": 55,
+		"percentage": "0.00"
+	},
+	".philips": {
+		"usage": 53,
+		"percentage": "0.00"
+	},
+	".xn–fpcrj9c3d": {
+		"usage": 52,
+		"percentage": "0.00"
+	},
+	".xn–1ck2e1b": {
+		"usage": 52,
+		"percentage": "0.00"
+	},
+	".fresenius": {
+		"usage": 49,
+		"percentage": "0.00"
+	},
+	".smart": {
+		"usage": 49,
+		"percentage": "0.00"
+	},
+	".anz": {
+		"usage": 48,
+		"percentage": "0.00"
+	},
+	".praxi": {
+		"usage": 48,
+		"percentage": "0.00"
+	},
+	".xn–2scrj9c": {
+		"usage": 48,
+		"percentage": "0.00"
+	},
+	".gucci": {
+		"usage": 47,
+		"percentage": "0.00"
+	},
+	".locus": {
+		"usage": 45,
+		"percentage": "0.00"
+	},
+	".jprs": {
+		"usage": 45,
+		"percentage": "0.00"
+	},
+	".xn–fiq64b": {
+		"usage": 45,
+		"percentage": "0.00"
+	},
+	".foo": {
+		"usage": 44,
+		"percentage": "0.00"
+	},
+	".kfh": {
+		"usage": 43,
+		"percentage": "0.00"
+	},
+	".xn–fzc2c9e2c": {
+		"usage": 43,
+		"percentage": "0.00"
+	},
+	".xn–55qw42g": {
+		"usage": 43,
+		"percentage": "0.00"
+	},
+	".aig": {
+		"usage": 42,
+		"percentage": "0.00"
+	},
+	".xn–s9brj9c": {
+		"usage": 42,
+		"percentage": "0.00"
+	},
+	".jio": {
+		"usage": 42,
+		"percentage": "0.00"
+	},
+	".abc": {
+		"usage": 41,
+		"percentage": "0.00"
+	},
+	".ipiranga": {
+		"usage": 41,
+		"percentage": "0.00"
+	},
+	".bauhaus": {
+		"usage": 40,
+		"percentage": "0.00"
+	},
+	".xn–jvr189m": {
+		"usage": 40,
+		"percentage": "0.00"
+	},
+	".hoteles": {
+		"usage": 40,
+		"percentage": "0.00"
+	},
+	".xn–mgbbh1a71e": {
+		"usage": 39,
+		"percentage": "0.00"
+	},
+	".xn–xkc2al3hye2a": {
+		"usage": 39,
+		"percentage": "0.00"
+	},
+	".lanxess": {
+		"usage": 39,
+		"percentage": "0.00"
+	},
+	".dell": {
+		"usage": 39,
+		"percentage": "0.00"
+	},
+	".statebank": {
+		"usage": 38,
+		"percentage": "0.00"
+	},
+	".bbva": {
+		"usage": 38,
+		"percentage": "0.00"
+	},
+	".walter": {
+		"usage": 38,
+		"percentage": "0.00"
+	},
+	".gle": {
+		"usage": 37,
+		"percentage": "0.00"
+	},
+	".xn–gckr3f0f": {
+		"usage": 37,
+		"percentage": "0.00"
+	},
+	".mitsubishi": {
+		"usage": 36,
+		"percentage": "0.00"
+	},
+	".tatamotors": {
+		"usage": 35,
+		"percentage": "0.00"
+	},
+	".latrobe": {
+		"usage": 35,
+		"percentage": "0.00"
+	},
+	".tui": {
+		"usage": 35,
+		"percentage": "0.00"
+	},
+	".frogans": {
+		"usage": 35,
+		"percentage": "0.00"
+	},
+	".barclaycard": {
+		"usage": 35,
+		"percentage": "0.00"
+	},
+	".sakura": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".orange": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".xn–bck1b9a5dre4c": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".xbox": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".redstone": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".hsbc": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".vanguard": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".skype": {
+		"usage": 34,
+		"percentage": "0.00"
+	},
+	".hitachi": {
+		"usage": 33,
+		"percentage": "0.00"
+	},
+	".allstate": {
+		"usage": 33,
+		"percentage": "0.00"
+	},
+	".wed": {
+		"usage": 33,
+		"percentage": "0.00"
+	},
+	".xn–fct429k": {
+		"usage": 32,
+		"percentage": "0.00"
+	},
+	".xn–yfro4i67o": {
+		"usage": 32,
+		"percentage": "0.00"
+	},
+	".dubai": {
+		"usage": 32,
+		"percentage": "0.00"
+	},
+	".zuerich": {
+		"usage": 31,
+		"percentage": "0.00"
+	},
+	".williamhill": {
+		"usage": 31,
+		"percentage": "0.00"
+	},
+	".youtube": {
+		"usage": 31,
+		"percentage": "0.00"
+	},
+	".bridgestone": {
+		"usage": 31,
+		"percentage": "0.00"
+	},
+	".azure": {
+		"usage": 30,
+		"percentage": "0.00"
+	},
+	".xn–45brj9c": {
+		"usage": 30,
+		"percentage": "0.00"
+	},
+	".bharti": {
+		"usage": 30,
+		"percentage": "0.00"
+	},
+	".cancerresearch": {
+		"usage": 29,
+		"percentage": "0.00"
+	},
+	".pfizer": {
+		"usage": 29,
+		"percentage": "0.00"
+	},
+	".vig": {
+		"usage": 29,
+		"percentage": "0.00"
+	},
+	".ads": {
+		"usage": 29,
+		"percentage": "0.00"
+	},
+	".med": {
+		"usage": 29,
+		"percentage": "0.00"
+	},
+	".xn–rovu88b": {
+		"usage": 28,
+		"percentage": "0.00"
+	},
+	".cbs": {
+		"usage": 28,
+		"percentage": "0.00"
+	},
+	".sony": {
+		"usage": 28,
+		"percentage": "0.00"
+	},
+	".toyota": {
+		"usage": 28,
+		"percentage": "0.00"
+	},
+	".hyatt": {
+		"usage": 28,
+		"percentage": "0.00"
+	},
+	".windows": {
+		"usage": 27,
+		"percentage": "0.00"
+	},
+	".ses": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".sew": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".abbvie": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".mov": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".dabur": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".arab": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".jcb": {
+		"usage": 26,
+		"percentage": "0.00"
+	},
+	".watches": {
+		"usage": 25,
+		"percentage": "0.00"
+	},
+	".jpmorgan": {
+		"usage": 25,
+		"percentage": "0.00"
+	},
+	".wanggou": {
+		"usage": 25,
+		"percentage": "0.00"
+	},
+	".gea": {
+		"usage": 25,
+		"percentage": "0.00"
+	},
+	".ieee": {
+		"usage": 25,
+		"percentage": "0.00"
+	},
+	".itau": {
+		"usage": 25,
+		"percentage": "0.00"
+	},
+	".hermes": {
+		"usage": 24,
+		"percentage": "0.00"
+	},
+	".sfr": {
+		"usage": 24,
+		"percentage": "0.00"
+	},
+	".mtn": {
+		"usage": 24,
+		"percentage": "0.00"
+	},
+	".prod": {
+		"usage": 24,
+		"percentage": "0.00"
+	},
+	".itv": {
+		"usage": 24,
+		"percentage": "0.00"
+	},
+	".hdfc": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".prime": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".clubmed": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".safe": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".budapest": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".cuisinella": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".stc": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".aaa": {
+		"usage": 23,
+		"percentage": "0.00"
+	},
+	".office": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".tvs": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".pramerica": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".spot": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".citi": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".suzuki": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".rexroth": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".kinder": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".hotels": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".hotmail": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".yun": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".fast": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".nike": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".vivo": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".tushu": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".jll": {
+		"usage": 22,
+		"percentage": "0.00"
+	},
+	".mit": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".fire": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".comcast": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".maif": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".gmail": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".circle": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".xn–ngbe9e0a": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".lplfinancial": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".landrover": {
+		"usage": 21,
+		"percentage": "0.00"
+	},
+	".bing": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".xn–mgbah1a3hjkrd": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".pioneer": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".tiffany": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".nra": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".jmp": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".chintai": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".nab": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".pin": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".hyundai": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".seek": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".amex": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".mobile": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".xn–kcrx77d1x4a": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".grainger": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".viva": {
+		"usage": 20,
+		"percentage": "0.00"
+	},
+	".kindle": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".ibm": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".gmo": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".amazon": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".free": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".secure": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".passagens": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".ferrero": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".wtc": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".analytics": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".goo": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".aetna": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".yamaxun": {
+		"usage": 19,
+		"percentage": "0.00"
+	},
+	".here": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".chase": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".brother": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".lilly": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".bbc": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".ice": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".bugatti": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".dish": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".hkt": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".caseih": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".able": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".zero": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".helsinki": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".lancaster": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".temasek": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".sandvikcoromant": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".lincoln": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".cfa": {
+		"usage": 18,
+		"percentage": "0.00"
+	},
+	".weatherchannel": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".vuelos": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".now": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".goodyear": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".loft": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".xihuan": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".baseball": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".zara": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".nowtv": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".intuit": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".imamat": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".emerck": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".softbank": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".spreadbetting": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".dad": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".shia": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".llp": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".northwesternmutual": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".xn–mgbpl2fh": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".xfinity": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".xn–imr513n": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".coupon": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".citadel": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".alipay": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".rmit": {
+		"usage": 17,
+		"percentage": "0.00"
+	},
+	".airbus": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".cruise": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".calvinklein": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".mckinsey": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".cbre": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".dds": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".hbo": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".farmers": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".swiftcover": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".extraspace": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".deal": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".nfl": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".hughes": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".xn–mgb9awbf": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".reliance": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".winners": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".like": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".gap": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".aramco": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".sapo": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".call": {
+		"usage": 16,
+		"percentage": "0.00"
+	},
+	".flickr": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".frontier": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".book": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".read": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".cal": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".save": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".xn–mxtq1m": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".moto": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".sohu": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".flir": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".xn–mgbca7dzdo": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".dot": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".crown": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".catholic": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".bv": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".athleta": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".toshiba": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".wme": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".otsuka": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".java": {
+		"usage": 15,
+		"percentage": "0.00"
+	},
+	".dupont": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".hangout": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".alfaromeo": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".sling": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".cipriani": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".rwe": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".imdb": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".boehringer": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".trv": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".lpl": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".weather": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".nec": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".travelersinsurance": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".zappos": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".bestbuy": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".author": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".swatch": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".nokia": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".buy": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".virgin": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".phone": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".amica": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".tunes": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".silk": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".homedepot": {
+		"usage": 14,
+		"percentage": "0.00"
+	},
+	".msd": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".firestone": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".xn–mix891f": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".talk": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".joy": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".adac": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".sina": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".lixil": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".esq": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".mtr": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".pars": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".iveco": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".pay": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".xn–mgbcpq6gpa1a": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".taobao": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".case": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".origins": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".data": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".fairwinds": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".stcgroup": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".olayangroup": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".prof": {
+		"usage": 13,
+		"percentage": "0.00"
+	},
+	".beats": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".chrome": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".fedex": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".intel": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".samsung": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".lds": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".day": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".xn–lgbbat1ad8j": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".thd": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".anquan": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".ford": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".aeg": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".marshalls": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".seven": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".got": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".room": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".redumbrella": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".wow": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".lasalle": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".pnc": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".bananarepublic": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".smile": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".showtime": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".hot": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".nissan": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".airtel": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".americanexpress": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".sas": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".ping": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".netflix": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".honda": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".travelchannel": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".you": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".staples": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".pohl": {
+		"usage": 12,
+		"percentage": "0.00"
+	},
+	".tjx": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".ferrari": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".pid": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".ing": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".mutual": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".akdn": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".off": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".dtv": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".dclk": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".audible": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".xn–eckvdtc9d": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".box": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".natura": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".jot": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".alstom": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".xn–mgbc0a9azcg": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".mls": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".homegoods": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".docs": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".open": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".meme": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".ril": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".ftr": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".bcn": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".xerox": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".delta": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".xn–nyqy26a": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".yodobashi": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".rocher": {
+		"usage": 11,
+		"percentage": "0.00"
+	},
+	".glade": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".xn–ngbrx": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".walmart": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".avianca": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".genting": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".lifeinsurance": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".safety": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".song": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".pwc": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".cbn": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".olayan": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".shaw": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".aarp": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".fujitsu": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".xn–mgbtx2b": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".scholarships": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".hdfcbank": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".xn–mgba3a3ejt": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".playstation": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".caravan": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".xn–45q11c": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".jeep": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".xn–jlq480n2rg": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".nextdirect": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".lefrak": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".ubs": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".gallup": {
+		"usage": 10,
+		"percentage": "0.00"
+	},
+	".travelers": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".lifestyle": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".comsec": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".bom": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".nba": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".barefoot": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".bcg": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".xn–cckwcxetd": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".locker": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".guardian": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".ericsson": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".ally": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".csc": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".kosher": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".booking": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".oldnavy": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".commbank": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".aol": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".oracle": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".sca": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".android": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".tab": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".nowruz": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".homesense": {
+		"usage": 9,
+		"percentage": "0.00"
+	},
+	".lacaixa": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".target": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".tdk": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".cityeats": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".rogers": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".tiaa": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".americanfamily": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".latino": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".xn–gk3at1e": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".ollo": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".qvc": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".marriott": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".ott": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".xn–mgbaakc7dvf": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".banamex": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".fujixerox": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".scjohnson": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".fido": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".mint": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".ubank": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".ups": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".tkmaxx": {
+		"usage": 8,
+		"percentage": "0.00"
+	},
+	".omega": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".drive": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".richardli": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".visa": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".dvr": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".clinique": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".map": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".amfam": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".datsun": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".lancia": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".dunlop": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".xn–mgba7c0bbn0a": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".tmall": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".lamer": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".mormon": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".newholland": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".netbank": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".grocery": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".volkswagen": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".xn–nqv7fs00ema": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".cookingchannel": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".tjmaxx": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".etisalat": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".diy": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".zip": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".dnp": {
+		"usage": 7,
+		"percentage": "0.00"
+	},
+	".blockbuster": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".xn–80aqecdr1a": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".agakhan": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".obi": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".fiat": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".pccw": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".viking": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".alibaba": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".phd": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".final": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".lotte": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".icbc": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".xn–9krt00a": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".play": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".giving": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".wolterskluwer": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".kerryhotels": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".food": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".xn–fzys8d69uvgm": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".xn–rvc1e0am3e": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".kerryproperties": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".xn–jlq61u9w7b": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".abarth": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".jaguar": {
+		"usage": 6,
+		"percentage": "0.00"
+	},
+	".boo": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".living": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".weibo": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".lexus": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".kuokgroup": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".infiniti": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".kia": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".bbt": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".fly": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".progressive": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".channel": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".chanel": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".xn–mgbi4ecexp": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".frontdoor": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".xn–tiq49xqyj": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".nationwide": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".baidu": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".xn–mgbai9azgqp6j": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".gallo": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".xn–3oq18vl8pn36a": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".volvo": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".shouji": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".xn–b4w605ferd": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".epson": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".star": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".nikon": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".maserati": {
+		"usage": 5,
+		"percentage": "0.00"
+	},
+	".capitalone": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".lego": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".raid": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".macys": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".george": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".hgtv": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".xn–30rr7y": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".xn–42c2d9a": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".nissay": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".bosch": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".onyourside": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".unicom": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".duck": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".foodnetwork": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".vana": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".kerrylogistics": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".afamilycompany": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".verisign": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".merckmsd": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".search": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".tci": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".kddi": {
+		"usage": 4,
+		"percentage": "0.00"
+	},
+	".xn–cg4bki": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".samsclub": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".bofa": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".an": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".xn–flw351e": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".bms": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".accenture": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".eat": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".xn–mgbt3dhd": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".gb": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".juniper": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".xn–9et52u": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".ggee": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".norton": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".guge": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".rsvp": {
+		"usage": 3,
+		"percentage": "0.00"
+	},
+	".gbiz": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–5su34j936bgsg": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".goldpoint": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".shangrila": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".nexus": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".symantec": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".fidelity": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–j1aef": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–11b4c3d": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".nhk": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".eurovision": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–8y0a063a": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".esurance": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".panasonic": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".rightathome": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–w4r85el8fhu5dnra": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–w4rs40l": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".nadex": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–efvy88h": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".asda": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–qcka1pmc": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".xn–h2brj9c8c": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".active": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".yahoo": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".blanco": {
+		"usage": 2,
+		"percentage": "0.00"
+	},
+	".sj": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–vermgensberater-ctb": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–pbt977c": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–pssy2u": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–fhbei": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–kpu716f": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".vistaprint": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–3pxu8k": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–c2br7g": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".honeywell": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".scor": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".xn–vermgensberatung-pwb": {
+		"usage": 1,
+		"percentage": "0.00"
+	},
+	".spiegel": {
+		"usage": 1,
+		"percentage": "0.00"
+	}
+}

@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <title>Randomizer</title>
+        <script src = "https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="https://cdn.tailwindcss.com"></script>
+
+        <style>
+            .faded {
+                opacity: 0;
+                transition: 0.5s;
+                visibility: hidden;
+                position: relative;
+            }
+        </style>
+    </head>
+
+    <body class = "p-8 flex flex-col gap-4">
+        <div class = "loader fixed top-0 left-0 bg-indigo-500 w-full h-full">
+            <div class = "flex flex-col gap-4 mx-auto absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 items-center">
+                <div class = "text-white inline-block h-16 w-16 animate-spin rounded-full border-4 border-solid border-current border-r-transparent align-[-0.125em] motion-reduce:animate-[spin_1.5s_linear_infinite]">
+                    <span class = "!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Loading...</span>
+                </div>
+
+                <p class = "text-xl text-center font-semibold text-white">Loading ...</p>
+            </div>
+        </div>
+
+        <h1 class = "text-2xl">Randomizer progress</h1>
+
+        <div class = "w-full">
+            <input class = "search" placeholder = "Search tld...">
+            <button>Go</button>
+        </div>
+
+        <table class = "w-full table-auto rounded-md">
+            <thead class = "bg-indigo-500 text-slate-50 border rounded-t-md">
+                <th class = "p-4">TLD</th>
+                <th class = "p-4">Verified</th>
+                <th class = "p-4">Process</th>
+            </thead>
+
+            <tbody class = "table">
+            </tbody>
+        </table>
+
+        <script>
+            var tldData
+
+            const websocket = new WebSocket(`ws://${window.location.hostname}:8080`)
+            websocket.onopen = () => {
+                console.log('Success connecting.')
+                websocket.send(JSON.stringify({action: 'getcurrentstat'}))
+            }
+
+            websocket.onmessage = (data) => {
+                data = JSON.parse(data.data)
+
+                if (data.action == 'getcurrentstat') {
+                    tldData = data.data
+                    Object.keys(tldData).forEach((tld) => {
+                        $('.table').append(`<tr><td>${tld}</td><td class = "tld-count ${tld}">${tldData[tld]}</td><td></td></tr>`)
+                    })
+
+                    $('.loader').addClass('faded')
+                }
+
+                if (data.action == 'update') {
+                    tldData[data.tld] += 1
+
+                    $(`.tld-count.${data.tld}`).html(tldData[data.tld])
+                }
+            }
+        </script>
+    </body>
+</html>
