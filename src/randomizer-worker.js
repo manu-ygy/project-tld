@@ -12,7 +12,7 @@ var chunkSize = fs.readdirSync(path.join(path.resolve(), '../data/chunked/', dom
 var maxLineToSearch = (chunkSize - 1) * 10000 + fs.readFileSync(path.join(path.resolve(), '../data/chunked/', domain, `${chunkSize - 1}.txt`), 'utf-8').split('\n').length - 1
 
 async function doRequest() {
-    if (randomized.length != 1000 && (randomized.lengt + inactive.length) > maxLineToSearch) {
+    if (randomized.length != 1000 && (randomized.length + inactive.length) > maxLineToSearch) {
         var randomChunkIndex = Math.round(Math.random() * (chunkSize - 1))
         var randomChunk = fs.readFileSync(path.join(path.resolve(), '../data/chunked/', domain, `${randomChunkIndex}.txt`), 'utf-8').split('\n')
         
