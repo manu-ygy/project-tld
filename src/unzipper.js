@@ -1,5 +1,6 @@
 import fs from 'fs'
 import { exec } from 'child_process'
+import path from 'path'
 
 var domainFolders = fs.readdirSync(path.join(path.resolve(), '../data/chunked/'))
 var index = 0
