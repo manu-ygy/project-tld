@@ -64,8 +64,7 @@ app.listen(3000, () => {
         })
 
         child.stderr.on('data', (data) => {
-            console.log(chalk.red('Failed to start, have you run the initiator?'))
-            process.exit()
+            console.log(chalk.red(`${dir}: Failed to start, have you run the initiator?`))
         })
     })
 })
