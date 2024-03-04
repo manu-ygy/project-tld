@@ -59,7 +59,7 @@ app.listen(3000, () => {
 
             if (data.status == 'initiated') {
                 progress[data.tld] = data.count
-                console.log(console.green(`Success spawning ${dir}`))
+                console.log(chalk.green(`Success spawning ${dir}`))
             }
         })
 
