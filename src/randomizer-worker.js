@@ -9,7 +9,7 @@ var randomized = fs.readFileSync(path.join(path.resolve(), '../data/randomized/'
 randomized.splice(randomized.length - 1, 1) // remove empty space
 var chunkSize = fs.readdirSync(path.join(path.resolve(), '../data/chunked/', domain)).length
 
-var maxLineToSearch = (chunkSize - 1) * 10000 + fs.readFileSync(path.join(path.resolve(), '../data/chunked/', domain), 'utf-8').split('\n').length - 1
+var maxLineToSearch = (chunkSize - 1) * 10000 + fs.readFileSync(path.join(path.resolve(), '../data/chunked/', domain, `${chunkSize - 1}.txt`), 'utf-8').split('\n').length - 1
 
 async function doRequest() {
     if (randomized.length != 1000 && (randomized.lengt + inactive.length) > maxLineToSearch) {
