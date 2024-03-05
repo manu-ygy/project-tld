@@ -67,12 +67,12 @@ app.listen(3000, () => {
                 limit++
                 spawnWorker(domainFolders[limit])
                 
-                console.log(chalk.green(`${dir} is finished. Spawning others ...`))
+                console.log(chalk.green(`${domain} is finished. Spawning others ...`))
             }
         })
 
         child.stderr.on('data', (data) => {
-            console.log(chalk.red(`${dir}: Failed to start, have you run the initiator?`))
+            console.log(chalk.red(`${domain}: Failed to start, have you run the initiator?`))
         })
     }
 
