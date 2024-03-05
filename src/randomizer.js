@@ -46,10 +46,10 @@ app.listen(3000, () => {
     })
 
     var domainFolders = fs.readdirSync(path.join(path.resolve(), '../data/chunked/'))
-    
-    domainFolders.forEach((dir) => {
-        progress[dir] = 0
-        var child = exec(`node randomizer-worker.js ${dir}`)
+    var limit = 100
+
+    function spawnWorker(domain) {
+        var child = exec(`node randomizer-worker.js ${domain}`)
         child.stdout.on('data', (data) => {
             var data = JSON.parse(data.split('\n')[0])
 
@@ -59,12 +59,26 @@ app.listen(3000, () => {
 
             if (data.status == 'initiated') {
                 progress[data.tld] = data.count
-                console.log(chalk.green(`Success spawning ${dir}`))
+                console.log(chalk.green(`Success spawning ${domain}`))
+            }
+
+            if (data.status == 'finished') {
+                progress[data.tld] = 1000
+                limit++
+                spawnWorker(domainFolders[limit])
+                
+                console.log(chalk.green(`${dir} is finished. Spawning others ...`))
             }
         })
 
         child.stderr.on('data', (data) => {
             console.log(chalk.red(`${dir}: Failed to start, have you run the initiator?`))
         })
-    })
+    }
+
+    for (var x = 0; x < limit; x++) {
+        var domain = domainFolders[x]
+
+        spawnWorker(domain)
+    }
 })
